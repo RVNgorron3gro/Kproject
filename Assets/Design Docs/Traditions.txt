@@ -1,0 +1,83 @@
+Beach:
+
+- Boat
+DESCRIPTION: it's crew will help you attack any walls you attack personally
+IN-GAME EFFECT: whenever you're in a region that contains an enemy wall, a cannonball will be fired at the
+nearest (from your main character's position) enemy wall, dealing the same damage as a catapult boulder
+(150 to 250) and firing at the same rate (1 shot every 7 and a half seconds)
+
+Swamp:
+
+- venomous craft
+DESCRIPTION: a variety of venoms can be built at a workshop built here
+IN-GAME EFFECT: in the workshop located at the swamp will be able to make venomous throwing needles, you
+can choose from these effects:
+	amnesic toxin: when applied, the next ability the target tries to use will enter cooldown without
+making any effects
+	exhausting toxin: when applied, the next action that costs stamina performed by the target will
+cost twice the stamina
+	relaxing toxin: when applied, the next attack performed by the target will have it's damage
+halved (doesn't work on damaging items)
+	bitter toxin: when applied, the next healing effect received by the target will instead damage it
+by the value it would have healed
+	gangrenous toxin: when applied, if your health goes below 15% you die
+
+
+Badlands:
+
+- far shight
+DESCRIPTION: your view reaches adjacent regions
+IN-GAME EFFECT: every adjacent region to the one your main character is in is considered revealed, meaning
+it isn't affected by fog of war even if you don't have any units or buildings on it
+
+Ruins:
+
+- golem glyph
+DESCRIPTION: golems can be built at workshops on this region
+IN-GAME EFFECT: you can make the following unit at a workshop built here:
+	golem (replaces ram): deals 1.5x the damage of a ram, but can be targeted by other siege weapons
+	lazuli armor: if you receive damage while it's mana is full, instead of taking damage, as much mana
+as damage you would have taken is drained from the armor
+
+
+Farmlands:
+
+- food abundance
+DESCRIPTION: buildings in this region maintain themselves
+IN-GAME EFFECT: buildings in this region won't be taken into account for the goldies spent each turn
+
+Forest:
+
+- secret trade routes
+DESCRIPTION: you can access this workshop from any other workshop
+IN-GAME EFFECT: items made in this workshop will be able to be picked up from any workshop regardless of
+it's location
+
+Lake:
+
+- astral university remnants:
+DESCRIPTION: you can build the astral university anywhere on the map
+IN-GAME EFFECT: the astral academy can be built anywhere on the map, limited to 1 on the battlefield, any
+catapult that occupies the same space will have it's range increased by 1, also any item that uses mana
+as a resource will have it's regeneration increased by 30%
+
+Mountain:
+
+- miner's knowledge:
+DESCRIPTION: your walls are now connected by underground tunnels and unlocks the pickaxe
+IN-GAME EFFECT: you can travel instantly to any wall that it's under attack from any of your buildings, you
+also build the pickaxe at a workshop on this region:
+	pickaxe: allows you to mine at the mine, you can gain one of these random bonuses
+	- yellow rock: gain 1 bonus goldie for your kingdom
+	- orange rock: charges your pickaxe with earthen energy, your next strike will cause a tiny
+earthquake, making every enemy in a wide radius around you lose balance*
+	- red rock: charges your pickaxe with fire, your next attack against an opponent wearing armor will
+melt his armor, and deal damage equal to 50% of that armor's current value*
+	- purple rock: you gain a shade shard, it has a limited amount of darkness which doesn't regenerate,
+when active it consumes darkness to maintain an aura, this aura impedes regeneration and slowly drains mana
+from any item or weapon that uses it as it's resource (even the user's one)
+	- teal rock: you gain a moonlight shard, when you use it in an area, you invoke a moonbeam, it's
+impact is delayed by 2 seconds, when it hits, it heals everyone (allies and foes) for 50% of his maximum
+health on a wide area around the impact
+
+*gaining a new effect while having another one will eliminate the former

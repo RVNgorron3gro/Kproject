@@ -1,0 +1,77 @@
+Tonemapper: ACES
+Post Exposure: 2
+Temperature: 0
+Tint: 0
+Hue Shift: 0
+Saturation: 1.5
+Contrast: 1.2
+
+RED - R 1 G 0 B 0
+
+GREEN - R 0 G 1 B 0
+
+BLUE - R 0 G 0 B 1
+
+
+--winter
+
+Post Exposure: 2
+Temperature: -30
+Tint: 40
+Hue Shift: 0
+Saturation: 1.1
+Contrast: 1.2
+
+RED - R 1 G 0 B 0
+
+GREEN - R 0 G 1 B 0
+
+BLUE - R 0 G 0 B 1
+
+
+--spring
+
+Post Exposure: 2
+Temperature: 20
+Tint: -10
+Hue Shift: 0
+Saturation: 1.5
+Contrast: 1.2
+
+RED - R 1 G 0 B 0
+
+GREEN - R 0.1 G 1 B 0.1
+
+BLUE - R 0 G 0 B 1
+
+
+--summer
+
+Post Exposure: 2.12
+Temperature: 0
+Tint: 0
+Hue Shift: 0
+Saturation: 1.5
+Contrast: 1.2
+
+RED - R 1 G 0 B 0
+
+GREEN - R 0 G 1 B 0
+
+BLUE - R 0 G 0 B 1
+
+
+--autumn
+
+Post Exposure: 2
+Temperature: 0
+Tint: 20
+Hue Shift: 0
+Saturation: 1.2
+Contrast: 1.2
+
+RED - R 1 G 0.1 B 0.1
+
+GREEN - R 0 G 0.9 B 0
+
+BLUE - R 0.2 G 0 B 0.5

@@ -1,0 +1,246 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1680987445311610}
+  m_IsPrefabParent: 1
+--- !u!1 &1680987445311610
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4651487730432988}
+  - component: {fileID: 114566550375583230}
+  - component: {fileID: 114936401954298176}
+  - component: {fileID: 114050089574064984}
+  - component: {fileID: 114558439952328110}
+  - component: {fileID: 114854318585146024}
+  m_Layer: 0
+  m_Name: GameController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4651487730432988
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1680987445311610}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114050089574064984
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1680987445311610}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c926699caf309c469354d05634c0953, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  masterList: {fileID: 11400000, guid: ff2a05b94e240fa488ebfeed2656e1f9, type: 2}
+  database: []
+--- !u!114 &114558439952328110
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1680987445311610}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4acb3a3caeeb0834bb7ec2d72457c0c6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  contained:
+  - {fileID: 11400000, guid: 0d1d8cbf5edc907439e69eec6255ff6f, type: 2}
+  - {fileID: 11400000, guid: 6a27751e067c6d94fb1fd499033d3142, type: 2}
+  - {fileID: 11400000, guid: 42295501587a76a45ae24094dea582e0, type: 2}
+  - {fileID: 11400000, guid: e0226b72a63d1d94ca1604e5be02548e, type: 2}
+  - {fileID: 11400000, guid: 8b8f44e02cfc86444b578e5589238331, type: 2}
+--- !u!114 &114566550375583230
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1680987445311610}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a581e6f47414e2c49b6460fbd630f68d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rebind: 
+  defaultBindings: {fileID: 11400000, guid: 67344f5d1e0f5d04493893c09ae56057, type: 2}
+  sessionBindings:
+  - name: 
+    key: 0
+    locked: 0
+  - name: 
+    key: 0
+    locked: 0
+  - name: 
+    key: 0
+    locked: 0
+--- !u!114 &114854318585146024
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1680987445311610}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f60cd44d47297824a892b297183e3ba3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  uHContainer: 010000000000000000000000
+  Health:
+    Name: Health
+    Color: {r: 0, g: 0.909804, b: 0, a: 1}
+    Icon: {fileID: 0}
+    Popups: 1
+    Max: 0
+    Val: 0
+    uHBar: 010000000100000001000000
+    reductionAnimation: 1
+    guideLineInterval: 0
+    pHBar: 0
+  Stamina:
+    Name: Stamina
+    Color: {r: 0.854902, g: 0.39607847, b: 0.03529412, a: 1}
+    Icon: {fileID: 0}
+    Popups: 0
+    Max: 0
+    Val: 0
+    uHBar: 020000000200000002000000
+    reductionAnimation: 0
+    guideLineInterval: 0
+    pHBar: 1
+  Mana:
+    Name: Mana
+    Color: {r: 0.1764706, g: 0.25882354, b: 0.85098046, a: 1}
+    Icon: {fileID: 0}
+    Popups: 0
+    Max: 0
+    Val: 0
+    uHBar: 020000000200000002000000
+    reductionAnimation: 0
+    guideLineInterval: 0
+    pHBar: 1
+  Bloodlust:
+    Name: Bloodlust
+    Color: {r: 0.6313726, g: 0.054901965, b: 0.03137255, a: 1}
+    Icon: {fileID: 0}
+    Popups: 0
+    Max: 0
+    Val: 0
+    uHBar: 020000000200000002000000
+    reductionAnimation: 0
+    guideLineInterval: 0
+    pHBar: 1
+  Sunlight:
+    Name: Sunlight
+    Color: {r: 0.8352942, g: 0.7607844, b: 0, a: 1}
+    Icon: {fileID: 0}
+    Popups: 0
+    Max: 0
+    Val: 0
+    uHBar: 020000000200000002000000
+    reductionAnimation: 0
+    guideLineInterval: 0
+    pHBar: 1
+  Moonlight:
+    Name: Moonlight
+    Color: {r: 0, g: 0.6666667, b: 0.8313726, a: 1}
+    Icon: {fileID: 0}
+    Popups: 0
+    Max: 0
+    Val: 0
+    uHBar: 020000000200000002000000
+    reductionAnimation: 0
+    guideLineInterval: 0
+    pHBar: 1
+  Curse:
+    Name: Curse
+    Color: {r: 0.2784314, g: 0.18431373, b: 0.20392159, a: 1}
+    Icon: {fileID: 0}
+    Popups: 0
+    Max: 0
+    Val: 0
+    uHBar: 
+    reductionAnimation: 0
+    guideLineInterval: 0
+    pHBar: 1
+  Corruption:
+    Name: Corruption
+    Color: {r: 0.36862746, g: 0, b: 0.36078432, a: 1}
+    Icon: {fileID: 0}
+    Popups: 0
+    Max: 0
+    Val: 0
+    uHBar: 020000000200000002000000
+    reductionAnimation: 0
+    guideLineInterval: 0
+    pHBar: 1
+  Darkness:
+    Name: Darkness
+    Color: {r: 0.28627452, g: 0.2627451, b: 0.2784314, a: 1}
+    Icon: {fileID: 0}
+    Popups: 0
+    Max: 0
+    Val: 0
+    uHBar: 020000000200000002000000
+    reductionAnimation: 0
+    guideLineInterval: 0
+    pHBar: 1
+--- !u!114 &114936401954298176
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1680987445311610}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6afba1ba593592a49b33951156953cee, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  resources:
+    hostility: {r: 0.43529412, g: 0, b: 0, a: 1}
+    health: {r: 0, g: 1, b: 0, a: 1}
+    stamina: {r: 1, g: 0.608, b: 0, a: 1}
+  unitHUD:
+    offset: {x: 0, y: 0, z: 1}
+    barLarge: {fileID: 1581700482094590, guid: 8527ca3601a176746bf3a5136ea2ac4d, type: 2}
+    barMedium: {fileID: 1691308667830294, guid: eaee8d1bad731754dbb6f825614e6b93,
+      type: 2}
+    barSmall: {fileID: 1364840047233292, guid: 187f696cf927a6e44958ea2eb0eae9b7, type: 2}
+    containerLarge: {fileID: 1918783379923726, guid: 607e8d43b14a4c145bda2b708da62c38,
+      type: 2}
+    containerMedium: {fileID: 1139911286702424, guid: b2e3c0b29998e4f408d70e248539a865,
+      type: 2}
+    containerSmall: {fileID: 1228050074105184, guid: 17591d99416571a489cf562f9873bea7,
+      type: 2}
+    emptyHolder: {fileID: 1061772092445518, guid: b8fb0dc0fbf61d540a0d34abad2a3538,
+      type: 2}
+    popup: {fileID: 1454368286698188, guid: 0d93954998ef93044804adb7ce2bc638, type: 2}
+    guideLine: {fileID: 1156755054225216, guid: 545e63ae1e5ac0e4a8b851175a195f3c,
+      type: 2}
+    guideLineSpacing: 100
+    ability: {fileID: 1967643040578032, guid: 24acd1e6b5f088343a7e50a63ff1d4bf, type: 2}
+    abilitySheet: {fileID: 11400000, guid: da2abb521ee1790458a475e946a0cdf8, type: 2}
+    defaultStyle: {fileID: 11400000, guid: db3742b09a280ef43ab588bf4fe04dae, type: 2}

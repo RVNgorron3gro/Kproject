@@ -1,0 +1,34 @@
+You have 3 slots from your class and one slot for each other class, meaning if you're a commander you have 3 commander ability
+slots, 1 warrior slot and 1 scout slot
+
+You start with one ability point to spend, and you gain an additional one per level (max 5), you can choose an ability from
+another class as your first one
+
+Warrior:
+
+- parry: you get ready to parry, if you receive any melee attack during the duration (0.5 seconds) you don't receive any damage
+from that attack
+- charge: your next attack will have it's windup time halved
+- will: during 3 seconds you don't lose any sprinting speed when getting hit and your next windup can't be interrupted
+
+Commander:
+
+- formation change: swap places with a friendly unit
+- disguise: you disguise as the nearest friendly unit, requires a friendly unit nearby, the disguise lasts up to 20% of
+your max HP or until you use an item or attack, in case of attack or item usage, the disguise is broken in the release
+phase, and you aren't seen charging the attack or item
+- push: every friendly unit's next attack will be charged twice as fast
+
+Scout:
+
+- roll: fast movement which doesn't require stamina
+- illusion: makes yourself invisible while an image of yourself charges an attack and runs towards the enemy, you become
+visible when the image is destroyed, the image is destroyed when it takes any damage or when it attacks, it's attack doesn't
+deal any damage.
+- heavy breath: recovers 50% of your max stamina instantly, but you don't obtain additional stamina if you use while above
+50% of your max stamina
+
+
+Usage and cooldown:
+
+every ability has 15 seconds cooldown

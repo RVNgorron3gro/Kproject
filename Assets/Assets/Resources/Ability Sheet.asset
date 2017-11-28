@@ -1,0 +1,287 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c079c41c6ec31447ad60b7c181babac, type: 3}
+  m_Name: Ability Sheet
+  m_EditorClassIdentifier: 
+  contained:
+  - title: Parry
+    image: {fileID: 21300000, guid: 515b5909a1bab0346bd7d64938caa699, type: 3}
+    slotType: 0
+    cost:
+      health: 0
+      healthPCT: 0
+      stamina: 0
+      staminaPCT: 0
+      mana: 0
+      manaPCT: 0
+      bloodlust: 0
+      sunlight: 0
+      moonlight: 0
+      curse: 0
+      corruption: 0
+      darkness: 0
+      states: []
+    description: Parries the first melee attack that hits you, lasts 0,5 seconds.
+    actions:
+    - target: 0
+      type: 0
+      targetStates:
+      - {fileID: 11400000, guid: 6a27751e067c6d94fb1fd499033d3142, type: 2}
+      targetEffector:
+        health: 0
+        healthPCT: 0
+        stamina: 0
+        staminaPCT: 0
+        mana: 0
+        manaPCT: 0
+        bloodlust: 0
+        sunlight: 0
+        moonlight: 0
+        curse: 0
+        corruption: 0
+        darkness: 0
+        states: []
+      animationTrigger: 
+      movementType: 0
+      direction: {x: 0, y: 0, z: 0, w: 0}
+      distance: 0
+      time: 0
+    length: 0
+  - title: Charge
+    image: {fileID: 21300000, guid: 8b26628a45838564e9ad3b7719bdc889, type: 3}
+    slotType: 0
+    cost:
+      health: 0
+      healthPCT: 0
+      stamina: 0
+      staminaPCT: 0
+      mana: 0
+      manaPCT: 0
+      bloodlust: 0
+      sunlight: 0
+      moonlight: 0
+      curse: 0
+      corruption: 0
+      darkness: 0
+      states: []
+    description: Your next attack will charge twice as fast.
+    actions:
+    - target: 0
+      type: 0
+      targetStates:
+      - {fileID: 11400000, guid: 0d1d8cbf5edc907439e69eec6255ff6f, type: 2}
+      targetEffector:
+        health: 0
+        healthPCT: 0
+        stamina: 0
+        staminaPCT: 0
+        mana: 0
+        manaPCT: 0
+        bloodlust: 0
+        sunlight: 0
+        moonlight: 0
+        curse: 0
+        corruption: 0
+        darkness: 0
+        states: []
+      animationTrigger: 
+      movementType: 0
+      direction: {x: 0, y: 0, z: 0, w: 0}
+      distance: 0
+      time: 0
+    length: 0
+  - title: Will
+    image: {fileID: 21300000, guid: b24fc5aa8bbd70e498271ec10f93c28a, type: 3}
+    slotType: 0
+    cost:
+      health: 0
+      healthPCT: 0
+      stamina: 0
+      staminaPCT: 0
+      mana: 0
+      manaPCT: 0
+      bloodlust: 0
+      sunlight: 0
+      moonlight: 0
+      curse: 0
+      corruption: 0
+      darkness: 0
+      states: []
+    description: No movement penalty when getting hit and your next windup can't be
+      interrupted, lasts 3 seconds.
+    actions: []
+    length: 0
+  - title: Formation Change
+    image: {fileID: 21300000, guid: 5049732780ab7ed4f94069f4373139e2, type: 3}
+    slotType: 1
+    cost:
+      health: 0
+      healthPCT: 0
+      stamina: 0
+      staminaPCT: 0
+      mana: 0
+      manaPCT: 0
+      bloodlust: 0
+      sunlight: 0
+      moonlight: 0
+      curse: 0
+      corruption: 0
+      darkness: 0
+      states: []
+    description: Swap places with a friendly unit.
+    actions: []
+    length: 0
+  - title: Disguise
+    image: {fileID: 21300000, guid: bee128d7c9a2d6147934268264efeef1, type: 3}
+    slotType: 1
+    cost:
+      health: 0
+      healthPCT: 0
+      stamina: 0
+      staminaPCT: 0
+      mana: 0
+      manaPCT: 0
+      bloodlust: 0
+      sunlight: 0
+      moonlight: 0
+      curse: 0
+      corruption: 0
+      darkness: 0
+      states: []
+    description: You disguise as the nearest friendly unit, attacking or taking too
+      much damage breaks the disguise.
+    actions: []
+    length: 0
+  - title: Push
+    image: {fileID: 21300000, guid: 7f73fac5961f8664d89dd4f836976e10, type: 3}
+    slotType: 1
+    cost:
+      health: 0
+      healthPCT: 0
+      stamina: 0
+      staminaPCT: 0
+      mana: 0
+      manaPCT: 0
+      bloodlust: 0
+      sunlight: 0
+      moonlight: 0
+      curse: 0
+      corruption: 0
+      darkness: 0
+      states: []
+    description: Every friendly unit will charge it's next attack twice as fast.
+    actions: []
+    length: 0
+  - title: Roll
+    image: {fileID: 21300000, guid: 44be09b0ed490504cb2fc9c96e5d6e20, type: 3}
+    slotType: 2
+    cost:
+      health: 0
+      healthPCT: 0
+      stamina: -40
+      staminaPCT: 0
+      mana: 0
+      manaPCT: 0
+      bloodlust: 0
+      sunlight: 0
+      moonlight: 0
+      curse: 0
+      corruption: 0
+      darkness: 0
+      states: []
+    description: Rolls towards the direction you're moving at, doesn't require stamina.
+    actions:
+    - target: 0
+      type: 2
+      targetStates: []
+      targetEffector:
+        health: 0
+        healthPCT: 0
+        stamina: 0
+        staminaPCT: 0
+        mana: 0
+        manaPCT: 0
+        bloodlust: 0
+        sunlight: 0
+        moonlight: 0
+        curse: 0
+        corruption: 0
+        darkness: 0
+        states: []
+      animationTrigger: Roll
+      movementType: 1
+      direction: {x: 0, y: 0, z: 0, w: 0}
+      distance: 600
+      time: 2
+    length: 0
+  - title: Illusion
+    image: {fileID: 21300000, guid: dfcabf245b391934c84cd8f8056c7474, type: 3}
+    slotType: 2
+    cost:
+      health: 0
+      healthPCT: 0
+      stamina: 0
+      staminaPCT: 0
+      mana: 0
+      manaPCT: 0
+      bloodlust: 0
+      sunlight: 0
+      moonlight: 0
+      curse: 0
+      corruption: 0
+      darkness: 0
+      states: []
+    description: Turn invisible as an illusion strikes forward, the effect breaks
+      if you or the illusion get hit or land a strike.
+    actions: []
+    length: 0
+  - title: Heavy Breath
+    image: {fileID: 21300000, guid: d9d854f142cdf144e9c67daf04ad9c5f, type: 3}
+    slotType: 2
+    cost:
+      health: 0
+      healthPCT: 0
+      stamina: 0
+      staminaPCT: 0
+      mana: 0
+      manaPCT: 0
+      bloodlust: 0
+      sunlight: 0
+      moonlight: 0
+      curse: 0
+      corruption: 0
+      darkness: 0
+      states: []
+    description: Recovers 20% of your max stamina instantly.
+    actions:
+    - target: 0
+      type: 2
+      targetStates: []
+      targetEffector:
+        health: 0
+        healthPCT: 0
+        stamina: 0
+        staminaPCT: 0.2
+        mana: 0
+        manaPCT: 0
+        bloodlust: 0
+        sunlight: 0
+        moonlight: 0
+        curse: 0
+        corruption: 0
+        darkness: 0
+        states: []
+      animationTrigger: 
+      movementType: 0
+      direction: {x: 0, y: 0, z: 0, w: 0}
+      distance: 0
+      time: 0
+    length: 0

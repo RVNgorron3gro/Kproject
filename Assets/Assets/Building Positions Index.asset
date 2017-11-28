@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60bb4b99c1d0e3147886afa2acdce5fc, type: 3}
+  m_Name: Building Positions Index
+  m_EditorClassIdentifier: 
+  toRestore: 0
+  layout:
+  - castle: {x: 0, y: 0, z: 40}
+    castleRot: {x: -0.00000003774895, y: 0, z: -0, w: 1}
+    houseA: {x: 50, y: 0, z: 45}
+    houseARot: {x: 0, y: -0.7071068, z: 0, w: 0.7071068}
+    houseB: {x: -45, y: 0, z: -40}
+    houseBRot: {x: 0, y: 1, z: 0, w: 0}
+    barracks: {x: -10, y: 0, z: -30}
+    barracksRot: {x: 0, y: -0.7071068, z: 0, w: 0.7071068}
+    granary: {x: -50, y: 0, z: 45}
+    granaryRot: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
+    workshop: {x: 30, y: 0, z: -40}
+    workshopRot: {x: 0, y: 1, z: 0, w: 0}
+  - castle: {x: 0, y: 0, z: 72}
+    castleRot: {x: -0.00000003774895, y: 0, z: -0, w: 1}
+    houseA: {x: 30, y: 0, z: 10}
+    houseARot: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
+    houseB: {x: -55, y: 0, z: -50}
+    houseBRot: {x: 0, y: 1, z: 0, w: 0}
+    barracks: {x: -25, y: 0, z: -10}
+    barracksRot: {x: 0, y: -0.7071068, z: 0, w: 0.7071068}
+    granary: {x: -5, y: 0, z: -50}
+    granaryRot: {x: 0, y: 1, z: 0, w: 0}
+    workshop: {x: 35, y: 0, z: -50}
+    workshopRot: {x: 0, y: 1, z: 0, w: 0}
+  - castle: {x: -50, y: 0, z: 72}
+    castleRot: {x: -0.00000003774895, y: 0, z: -0, w: 1}
+    houseA: {x: -40, y: 0, z: -50}
+    houseARot: {x: 0, y: -0.7071068, z: 0, w: 0.7071068}
+    houseB: {x: 60, y: 0, z: -20}
+    houseBRot: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
+    barracks: {x: -10, y: 0, z: 60}
+    barracksRot: {x: 0, y: -0.7071068, z: 0, w: 0.7071068}
+    granary: {x: -40, y: 0, z: -8}
+    granaryRot: {x: 0, y: 1, z: 0, w: 0}
+    workshop: {x: 25, y: 0, z: -40}
+    workshopRot: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}

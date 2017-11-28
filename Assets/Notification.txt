@@ -1,0 +1,13 @@
+15:00 - == RVN == gorronegro: okay
+15:01 - == RVN == gorronegro: there's also another kind of notification
+15:02 - == RVN == gorronegro: there will be a compass icon to the top right, which will have a little yellow dot on it's bottom right side everytime something is "wasting time"
+15:02 - Eyliess: oh
+15:02 - Eyliess: like in company of heroes?
+15:03 - == RVN == gorronegro: exactly, but there's only going to be one icon instead a group of plates
+15:03 - == RVN == gorronegro: this icon will show it's yellow dot whenever a building is not doing anything and has an empty slot
+15:03 - == RVN == gorronegro: granaries won't ever trigger it because they can never be doing anything, they're passive
+15:04 - Eyliess: alright
+15:04 - == RVN == gorronegro: barracks will trigger it if they haven't trained any units AND there's no unit trained by them at the time
+15:05 - Eyliess: makes sense
+15:05 - == RVN == gorronegro: and workshops will trigger it if they have an empty slot (be it the unit or the equipment) and they're not training a unit or building an item
+15:06 - == RVN == gorronegro: please copy this somewhere because this information isn't backed up anywhere

@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 031aaac9137d8c149beaa6d8d4fecd2e, type: 3}
+  m_Name: Default UnitHUD Style
+  m_EditorClassIdentifier: 
+  type:
+  - target: 0
+    container: 2
+    gauge:
+    - bar: 1
+      resource: 0
+      reductionAnimation: 0
+      guideLines: 0
+  - target: 1
+    container: 1
+    gauge:
+    - bar: 1
+      resource: 0
+      reductionAnimation: 1
+      guideLines: 0
+  - target: 2
+    container: 0
+    gauge:
+    - bar: 1
+      resource: 0
+      reductionAnimation: 1
+      guideLines: 1
+    - bar: 2
+      resource: 1
+      reductionAnimation: 0
+      guideLines: 0

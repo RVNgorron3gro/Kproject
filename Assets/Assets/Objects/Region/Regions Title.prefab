@@ -1,0 +1,5114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1674978048168540}
+  m_IsPrefabParent: 1
+--- !u!1 &1102510695793318
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4331017027960126}
+  - component: {fileID: 218874037022628756}
+  - component: {fileID: 154859939064589280}
+  - component: {fileID: 114122454924336610}
+  - component: {fileID: 114684201981045114}
+  - component: {fileID: 114299798654257736}
+  m_Layer: 0
+  m_Name: Lake
+  m_TagString: Region
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 0
+--- !u!1 &1143484980322872
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4694547987758990}
+  - component: {fileID: 218964463990468202}
+  - component: {fileID: 154477337250653674}
+  - component: {fileID: 114695371259160952}
+  - component: {fileID: 114813937768484118}
+  - component: {fileID: 114381410947351642}
+  m_Layer: 0
+  m_Name: Player 2 Start
+  m_TagString: Region
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 0
+--- !u!1 &1192501253533828
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4368128552977024}
+  - component: {fileID: 218918160341437268}
+  - component: {fileID: 154063759895440366}
+  - component: {fileID: 114505991038637672}
+  - component: {fileID: 114390082872559670}
+  - component: {fileID: 114146559120822990}
+  m_Layer: 0
+  m_Name: Ruins
+  m_TagString: Region
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!1 &1196774556611158
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4356849131201432}
+  m_Layer: 0
+  m_Name: '!Meshes'
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1199835787416614
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4979258205025032}
+  - component: {fileID: 218314670051260664}
+  - component: {fileID: 154155384853913620}
+  - component: {fileID: 114971594143541874}
+  - component: {fileID: 114267927836089606}
+  - component: {fileID: 114900639226234256}
+  m_Layer: 0
+  m_Name: Forest
+  m_TagString: Region
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 0
+--- !u!1 &1292670933733282
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4125603531056116}
+  - component: {fileID: 218472207619450814}
+  - component: {fileID: 154716138697097032}
+  - component: {fileID: 114586476782192820}
+  - component: {fileID: 114339955500179634}
+  - component: {fileID: 114772009689531184}
+  m_Layer: 0
+  m_Name: Frozen Village
+  m_TagString: Region
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 0
+--- !u!1 &1293024173166266
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4174959623979736}
+  - component: {fileID: 218138900919723010}
+  - component: {fileID: 154575233811330276}
+  - component: {fileID: 114891259385483520}
+  - component: {fileID: 114611328098719424}
+  - component: {fileID: 114330013817962012}
+  m_Layer: 0
+  m_Name: Swamp
+  m_TagString: Region
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 0
+--- !u!1 &1295748635067054
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4450876263846166}
+  - component: {fileID: 218962890061688830}
+  - component: {fileID: 154932764664353784}
+  - component: {fileID: 114065115968087588}
+  - component: {fileID: 114876835733226032}
+  - component: {fileID: 114753831361087982}
+  m_Layer: 0
+  m_Name: Farmlands
+  m_TagString: Region
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 0
+--- !u!1 &1338990464092986
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4968641185434144}
+  - component: {fileID: 218520163205810796}
+  - component: {fileID: 154447255484484662}
+  - component: {fileID: 114550015743186824}
+  - component: {fileID: 114278556606985436}
+  - component: {fileID: 114391299280835878}
+  m_Layer: 0
+  m_Name: Beach
+  m_TagString: Region
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 0
+--- !u!1 &1433815365260528
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4621017837414454}
+  - component: {fileID: 33926814807238050}
+  - component: {fileID: 65258840184313012}
+  - component: {fileID: 23430958156767922}
+  m_Layer: 0
+  m_Name: Bridge
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1570297490718854
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4821228459216514}
+  m_Layer: 0
+  m_Name: Bridges
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1594668384335240
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4212073650670530}
+  - component: {fileID: 218765090503086980}
+  - component: {fileID: 154933504753616174}
+  - component: {fileID: 114635733846371764}
+  - component: {fileID: 114556111928767380}
+  - component: {fileID: 114881221860419290}
+  m_Layer: 0
+  m_Name: Fishing Village
+  m_TagString: Region
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 0
+--- !u!1 &1674978048168540
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4977103474894630}
+  m_Layer: 0
+  m_Name: Regions Title
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1694116256425782
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4854976520255346}
+  - component: {fileID: 218442960837003646}
+  - component: {fileID: 154633112955046266}
+  - component: {fileID: 114706376629361354}
+  - component: {fileID: 114633157926896608}
+  - component: {fileID: 114482874675260886}
+  m_Layer: 0
+  m_Name: Mountain
+  m_TagString: Region
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 0
+--- !u!1 &1876745875045910
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4632786132001830}
+  - component: {fileID: 218391812258844198}
+  - component: {fileID: 154648097559105364}
+  - component: {fileID: 114725944609530768}
+  - component: {fileID: 114548859854981440}
+  - component: {fileID: 114770513936675080}
+  m_Layer: 0
+  m_Name: Badlands
+  m_TagString: Region
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 0
+--- !u!1 &1984757256758664
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4668065812382986}
+  - component: {fileID: 218309707523618292}
+  - component: {fileID: 154368063215950098}
+  - component: {fileID: 114418485772547802}
+  - component: {fileID: 114398672190352886}
+  - component: {fileID: 114865101903138864}
+  - component: {fileID: 114893967661077300}
+  m_Layer: 0
+  m_Name: Player 1 Start
+  m_TagString: Region
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 0
+--- !u!4 &4125603531056116
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1292670933733282}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 200, y: 0, z: -600}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4977103474894630}
+  m_RootOrder: 10
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4174959623979736
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1293024173166266}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 400, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4977103474894630}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4212073650670530
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1594668384335240}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 200, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4977103474894630}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4331017027960126
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1102510695793318}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -600}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4977103474894630}
+  m_RootOrder: 9
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4356849131201432
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1196774556611158}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4821228459216514}
+  m_Father: {fileID: 4368128552977024}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4368128552977024
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1192501253533828}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 200, y: 0, z: -200}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4356849131201432}
+  m_Father: {fileID: 4977103474894630}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4450876263846166
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1295748635067054}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 200, y: 0, z: -400}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4977103474894630}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4621017837414454
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1433815365260528}
+  m_LocalRotation: {x: -0, y: -0.05056338, z: -0, w: 0.99872094}
+  m_LocalPosition: {x: 96.95, y: 200.11, z: 119.313}
+  m_LocalScale: {x: 6.1823473, y: 1, z: 22.339289}
+  m_Children: []
+  m_Father: {fileID: 4821228459216514}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: -5.7970004, z: 0}
+--- !u!4 &4632786132001830
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1876745875045910}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -200}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4977103474894630}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4668065812382986
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1984757256758664}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 400, y: 0, z: -200}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4977103474894630}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4694547987758990
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1143484980322872}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -400}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4977103474894630}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4821228459216514
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1570297490718854}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4621017837414454}
+  m_Father: {fileID: 4356849131201432}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4854976520255346
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1694116256425782}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 400, y: 0, z: -600}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4977103474894630}
+  m_RootOrder: 11
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4968641185434144
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1338990464092986}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4977103474894630}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4977103474894630
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1674978048168540}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4968641185434144}
+  - {fileID: 4212073650670530}
+  - {fileID: 4174959623979736}
+  - {fileID: 4632786132001830}
+  - {fileID: 4368128552977024}
+  - {fileID: 4668065812382986}
+  - {fileID: 4694547987758990}
+  - {fileID: 4450876263846166}
+  - {fileID: 4979258205025032}
+  - {fileID: 4331017027960126}
+  - {fileID: 4125603531056116}
+  - {fileID: 4854976520255346}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4979258205025032
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1199835787416614}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 400, y: 0, z: -400}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4977103474894630}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!23 &23430958156767922
+MeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1433815365260528}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_Materials:
+  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 1
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!33 &33926814807238050
+MeshFilter:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1433815365260528}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!65 &65258840184313012
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1433815365260528}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &114065115968087588
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1295748635067054}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42f8d6cc422e1954a893b4f459c5aa20, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  IconAuto: {fileID: 2800000, guid: 524b82a1a55d14e4b94af0977e8e5238, type: 3}
+  Shader: 2
+  Layers:
+  - Name: Grass
+    ColorTexture: {fileID: 2800000, guid: 8d6a348e3658456429fdf2377c904c4f, type: 3}
+    NormalsTexture: {fileID: 2800000, guid: 619b9391551a1844e8d27b8294d96424, type: 3}
+    SMOTexture: {fileID: 0}
+    Scale: 57.2
+    ScaleFar: 24.5
+    ScaleMixStart: 60
+    ScaleMixEnd: 300
+    UseAuto: 1
+    Angle:
+      From: -30
+      To: 30
+      Smoothing: 14.1
+    Height:
+      From: -1000
+      To: 600
+      Smoothing: 0
+    TextureBleed: 0.188
+    DisplacementScale: 0
+    Roughness: 1
+    Specular: {r: 0, g: 0, b: 0, a: 0}
+    UseTriplanarProjection: 0
+    OverlayStrength: 0.84
+    OverlayScale: 0.7
+  - Name: Pebbles
+    ColorTexture: {fileID: 2800000, guid: ecf52c93906aaa6409f96373c6e7ba7c, type: 3}
+    NormalsTexture: {fileID: 2800000, guid: 837d562cf4d574d40aa1c8b9d665b999, type: 3}
+    SMOTexture: {fileID: 2800000, guid: 7b639b2d9353e7a47bac5ddca33ff7da, type: 3}
+    Scale: 37.8
+    ScaleFar: 20
+    ScaleMixStart: 60
+    ScaleMixEnd: 300
+    UseAuto: 1
+    Angle:
+      From: 11.6
+      To: 34.7
+      Smoothing: 8.9
+    Height:
+      From: -1000
+      To: 600
+      Smoothing: 0
+    TextureBleed: 0.129
+    DisplacementScale: 0.208
+    Roughness: 0.2
+    Specular: {r: 0.60294116, g: 0.60294116, b: 0.60294116, a: 0}
+    UseTriplanarProjection: 0
+    OverlayStrength: 0.048
+    OverlayScale: 0.7
+  - Name: Cliffs
+    ColorTexture: {fileID: 2800000, guid: ee8431fad656bc246950a4d2e9994cd9, type: 3}
+    NormalsTexture: {fileID: 2800000, guid: 34ca1f0353361824d8b30681723dd51d, type: 3}
+    SMOTexture: {fileID: 2800000, guid: 322bec5d8e95d9649b01ecc1ab504af7, type: 3}
+    Scale: 20
+    ScaleFar: 4
+    ScaleMixStart: 60
+    ScaleMixEnd: 300
+    UseAuto: 1
+    Angle:
+      From: 26
+      To: 121.29
+      Smoothing: 28.6
+    Height:
+      From: -1000
+      To: 600
+      Smoothing: 1
+    TextureBleed: 0.1
+    DisplacementScale: 0.415
+    Roughness: 0.52
+    Specular: {r: 0.5, g: 0.5, b: 0.5, a: 0}
+    UseTriplanarProjection: 1
+    OverlayStrength: 0
+    OverlayScale: 1
+  - Name: Road_D
+    ColorTexture: {fileID: 2800000, guid: 7986012f35ccdf644a38fe6a8e729f84, type: 3}
+    NormalsTexture: {fileID: 2800000, guid: 81c9d1d72fdc7a041ae3793e89943b34, type: 3}
+    SMOTexture: {fileID: 2800000, guid: 6ed05210016545c4882eb052a03de127, type: 3}
+    Scale: 51.01
+    ScaleFar: 4
+    ScaleMixStart: 60
+    ScaleMixEnd: 300
+    UseAuto: 0
+    Angle:
+      From: -30
+      To: 60
+      Smoothing: 0
+    Height:
+      From: -1
+      To: 3
+      Smoothing: 0
+    TextureBleed: 1
+    DisplacementScale: 0.028
+    Roughness: 0.09
+    Specular: {r: 1, g: 1, b: 1, a: 0}
+    UseTriplanarProjection: 0
+    OverlayStrength: 0
+    OverlayScale: 1
+  ColorOverlay: {fileID: 2800000, guid: a21e7548a1cf41a4b8ff932ed4d9f88d, type: 3}
+  OverlayScaleMultiplier: 1
+  Displacement:
+    RangeMin: 40
+    RangeMax: 60
+    Tesselation: 3
+    FalloffPower: 0.78
+    GlobalScale: 3.16
+  ColorPaintTexture: {fileID: 2800000, guid: a2c113c84f8a4994eb083357923b440e, type: 3}
+  AutoDebugMode: 0
+  GlobalScale: 1
+--- !u!114 &114122454924336610
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1102510695793318}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42f8d6cc422e1954a893b4f459c5aa20, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  IconAuto: {fileID: 2800000, guid: 524b82a1a55d14e4b94af0977e8e5238, type: 3}
+  Shader: 2
+  Layers:
+  - Name: Grass
+    ColorTexture: {fileID: 2800000, guid: 8d6a348e3658456429fdf2377c904c4f, type: 3}
+    NormalsTexture: {fileID: 2800000, guid: 619b9391551a1844e8d27b8294d96424, type: 3}
+    SMOTexture: {fileID: 0}
+    Scale: 57.2
+    ScaleFar: 24.5
+    ScaleMixStart: 60
+    ScaleMixEnd: 300
+    UseAuto: 1
+    Angle:
+      From: -30
+      To: 30
+      Smoothing: 14.1
+    Height:
+      From: -1000
+      To: 600
+      Smoothing: 0
+    TextureBleed: 0.188
+    DisplacementScale: 0
+    Roughness: 1
+    Specular: {r: 0, g: 0, b: 0, a: 0}
+    UseTriplanarProjection: 0
+    OverlayStrength: 0.84
+    OverlayScale: 0.7
+  - Name: Pebbles
+    ColorTexture: {fileID: 2800000, guid: ecf52c93906aaa6409f96373c6e7ba7c, type: 3}
+    NormalsTexture: {fileID: 2800000, guid: 837d562cf4d574d40aa1c8b9d665b999, type: 3}
+    SMOTexture: {fileID: 2800000, guid: 7b639b2d9353e7a47bac5ddca33ff7da, type: 3}
+    Scale: 37.8
+    ScaleFar: 20
+    ScaleMixStart: 60
+    ScaleMixEnd: 300
+    UseAuto: 1
+    Angle:
+      From: 11.6
+      To: 34.7
+      Smoothing: 8.9
+    Height:
+      From: -1000
+      To: 600
+      Smoothing: 0
+    TextureBleed: 0.129
+    DisplacementScale: 0.208
+    Roughness: 0.2
+    Specular: {r: 0.60294116, g: 0.60294116, b: 0.60294116, a: 0}
+    UseTriplanarProjection: 0
+    OverlayStrength: 0.048
+    OverlayScale: 0.7
+  - Name: Cliffs
+    ColorTexture: {fileID: 2800000, guid: ee8431fad656bc246950a4d2e9994cd9, type: 3}
+    NormalsTexture: {fileID: 2800000, guid: 34ca1f0353361824d8b30681723dd51d, type: 3}
+    SMOTexture: {fileID: 2800000, guid: 322bec5d8e95d9649b01ecc1ab504af7, type: 3}
+    Scale: 20
+    ScaleFar: 4
+    ScaleMixStart: 60
+    ScaleMixEnd: 300
+    UseAuto: 1
+    Angle:
+      From: 26
+      To: 121.29
+      Smoothing: 28.6
+    Height:
+      From: -1000
+      To: 600
+      Smoothing: 1
+    TextureBleed: 0.1
+    DisplacementScale: 0.415
+    Roughness: 0.52
+    Specular: {r: 0.5, g: 0.5, b: 0.5, a: 0}
+    UseTriplanarProjection: 1
+    OverlayStrength: 0
+    OverlayScale: 1
+  - Name: Road_D
+    ColorTexture: {fileID: 2800000, guid: 7986012f35ccdf644a38fe6a8e729f84, type: 3}
+    NormalsTexture: {fileID: 2800000, guid: 81c9d1d72fdc7a041ae3793e89943b34, type: 3}
+    SMOTexture: {fileID: 2800000, guid: 6ed05210016545c4882eb052a03de127, type: 3}
+    Scale: 51.01
+    ScaleFar: 4
+    ScaleMixStart: 60
+    ScaleMixEnd: 300
+    UseAuto: 0
+    Angle:
+      From: -30
+      To: 60
+      Smoothing: 0
+    Height:
+      From: -1
+      To: 3
+      Smoothing: 0
+    TextureBleed: 1
+    DisplacementScale: 0.028
+    Roughness: 0.09
+    Specular: {r: 1, g: 1, b: 1, a: 0}
+    UseTriplanarProjection: 0
+    OverlayStrength: 0
+    OverlayScale: 1
+  ColorOverlay: {fileID: 2800000, guid: a21e7548a1cf41a4b8ff932ed4d9f88d, type: 3}
+  OverlayScaleMultiplier: 1
+  Displacement:
+    RangeMin: 40
+    RangeMax: 60
+    Tesselation: 3
+    FalloffPower: 0.78
+    GlobalScale: 3.16
+  ColorPaintTexture: {fileID: 2800000, guid: a2c113c84f8a4994eb083357923b440e, type: 3}
+  AutoDebugMode: 0
+  GlobalScale: 1
+--- !u!114 &114146559120822990
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1192501253533828}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b66d3a77b1ebb26428920ff8ea9e6eb4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  WindStrength: 1
+  WaveStrength: 1
+  WaveFrequency: 0.5
+--- !u!114 &114267927836089606
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1199835787416614}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88c04ca18fcd58e4291bd8642ebed152, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PatchesResolution: 64
+  RandomSeed: 1874484082
+  RuntimeFrameBudget: 10
+  RuntimeRebuildDistance: 150
+  RuntimeDestroyDistance: 150
+  MeshScaleMultiplier: 1
+  RuntimeDensityMultiplier: 1
+  Types: []
+  DataHolder: {fileID: 114674822947357602, guid: e5eab02253b586b4b85a342dcac96e67,
+    type: 2}
+--- !u!114 &114278556606985436
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1338990464092986}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88c04ca18fcd58e4291bd8642ebed152, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PatchesResolution: 64
+  RandomSeed: 958630139
+  RuntimeFrameBudget: 10
+  RuntimeRebuildDistance: 150
+  RuntimeDestroyDistance: 150
+  MeshScaleMultiplier: 1
+  RuntimeDensityMultiplier: 1
+  Types: []
+  DataHolder: {fileID: 114748284533608894, guid: 340db7fbab053134899d5e97c57f9089,
+    type: 2}
+--- !u!114 &114299798654257736
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1102510695793318}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b66d3a77b1ebb26428920ff8ea9e6eb4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  WindStrength: 1
+  WaveStrength: 1
+  WaveFrequency: 0.5
+--- !u!114 &114330013817962012
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1293024173166266}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b66d3a77b1ebb26428920ff8ea9e6eb4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  WindStrength: 1
+  WaveStrength: 1
+  WaveFrequency: 0.5
+--- !u!114 &114339955500179634
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1292670933733282}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88c04ca18fcd58e4291bd8642ebed152, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PatchesResolution: 64
+  RandomSeed: 626588562
+  RuntimeFrameBudget: 10
+  RuntimeRebuildDistance: 150
+  RuntimeDestroyDistance: 150
+  MeshScaleMultiplier: 1
+  RuntimeDensityMultiplier: 1
+  Types: []
+  DataHolder: {fileID: 114271545034923454, guid: b213df65baa712245b9d932da68fb970,
+    type: 2}
+--- !u!114 &114381410947351642
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1143484980322872}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b66d3a77b1ebb26428920ff8ea9e6eb4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  WindStrength: 1
+  WaveStrength: 1
+  WaveFrequency: 0.5
+--- !u!114 &114390082872559670
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1192501253533828}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88c04ca18fcd58e4291bd8642ebed152, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PatchesResolution: 32
+  RandomSeed: 9862
+  RuntimeFrameBudget: 18
+  RuntimeRebuildDistance: 180
+  RuntimeDestroyDistance: 200
+  MeshScaleMultiplier: 0.5
+  RuntimeDensityMultiplier: 1
+  Types:
+  - Definition: {fileID: 11400000, guid: b1af6dced4760454789062954f9177b1, type: 2}
+    PatchesHolder: {fileID: 0}
+  - Definition: {fileID: 11400000, guid: 032d5687f51da82468841681181ab31e, type: 2}
+    PatchesHolder: {fileID: 0}
+  - Definition: {fileID: 11400000, guid: fbc72474ec4ddb54797f712fa8894534, type: 2}
+    PatchesHolder: {fileID: 0}
+  - Definition: {fileID: 11400000, guid: 66ecbb8b2dcbe744a9eff0436ee72881, type: 2}
+    PatchesHolder: {fileID: 0}
+  - Definition: {fileID: 11400000, guid: 3391c0a1fd3f79a40a1bf4c8f1413960, type: 2}
+    PatchesHolder: {fileID: 0}
+  - Definition: {fileID: 11400000, guid: fda5fdc9915e1244aa21c42c616b8978, type: 2}
+    PatchesHolder: {fileID: 0}
+  - Definition: {fileID: 11400000, guid: cc9035731f0289a4bb8f81d64c008744, type: 2}
+    PatchesHolder: {fileID: 0}
+  - Definition: {fileID: 11400000, guid: e161af645bd8eeb4d8160c41f05c44d5, type: 2}
+    PatchesHolder: {fileID: 0}
+  - Definition: {fileID: 11400000, guid: d74e6e06cfc572640b95ac3c60211f62, type: 2}
+    PatchesHolder: {fileID: 0}
+  - Definition: {fileID: 11400000, guid: 141d39eec803d144ebc82c64239b5f66, type: 2}
+    PatchesHolder: {fileID: 0}
+  - Definition: {fileID: 11400000, guid: 6e9f0d2540106c74889789609a425f9a, type: 2}
+    PatchesHolder: {fileID: 0}
+  - Definition: {fileID: 11400000, guid: 55d0ebe5b6ec6f446b32ec4b6fe16d9e, type: 2}
+    PatchesHolder: {fileID: 0}
+  - Definition: {fileID: 11400000, guid: f9818d8def2e78f4f97908abc6178de9, type: 2}
+    PatchesHolder: {fileID: 0}
+  - Definition: {fileID: 11400000, guid: 6ecbeedf2862b47418ed92dbdaede4a3, type: 2}
+    PatchesHolder: {fileID: 0}
+  - Definition: {fileID: 11400000, guid: 7d7c4c1cb7845114c856e2014eb47026, type: 2}
+    PatchesHolder: {fileID: 0}
+  - Definition: {fileID: 11400000, guid: 16619710052caa744821e8c48c24f748, type: 2}
+    PatchesHolder: {fileID: 0}
+  - Definition: {fileID: 11400000, guid: 7b89ac9f9fc243948b610fb26da6b3c4, type: 2}
+    PatchesHolder: {fileID: 0}
+  - Definition: {fileID: 11400000, guid: c9e1ef8fe660f944e94809861cb9c5b5, type: 2}
+    PatchesHolder: {fileID: 0}
+  - Definition: {fileID: 11400000, guid: c2831aa8adc427644aa4a1c68a1c794e, type: 2}
+    PatchesHolder: {fileID: 0}
+  - Definition: {fileID: 11400000, guid: 5d3d3fdea9d4bee49b83a631692aaf4a, type: 2}
+    PatchesHolder: {fileID: 0}
+  - Definition: {fileID: 11400000, guid: 0efce98994d6412458ed09d3da51c53a, type: 2}
+    PatchesHolder: {fileID: 0}
+  - Definition: {fileID: 11400000, guid: 53b7f508486e67d45abdc797e50be2a2, type: 2}
+    PatchesHolder: {fileID: 0}
+  - Definition: {fileID: 11400000, guid: a64e60f5fa2fa9642973f3ca28dcd2ef, type: 2}
+    PatchesHolder: {fileID: 0}
+  - Definition: {fileID: 11400000, guid: 55201af162f35bb40a06d5b16fef4bae, type: 2}
+    PatchesHolder: {fileID: 0}
+  - Definition: {fileID: 11400000, guid: d595f11dd506c9c4db70d1f65a5f488a, type: 2}
+    PatchesHolder: {fileID: 0}
+  - Definition: {fileID: 11400000, guid: 3985933ba89450849b02073ef0d4ced3, type: 2}
+    PatchesHolder: {fileID: 0}
+  - Definition: {fileID: 11400000, guid: e833b69e38b8a0642ad74819587adbec, type: 2}
+    PatchesHolder: {fileID: 0}
+  - Definition: {fileID: 11400000, guid: 78371bd7f07e9f742b6026ec849ed529, type: 2}
+    PatchesHolder: {fileID: 0}
+  - Definition: {fileID: 11400000, guid: 9949cc3dc00d73d4196dfa1a05666d87, type: 2}
+    PatchesHolder: {fileID: 0}
+  - Definition: {fileID: 11400000, guid: 132b213f46912e9468cf7aa55e4a1183, type: 2}
+    PatchesHolder: {fileID: 0}
+  - Definition: {fileID: 11400000, guid: d04f61543216d544194cf6b884b45ca8, type: 2}
+    PatchesHolder: {fileID: 0}
+  - Definition: {fileID: 11400000, guid: d04f61543216d544194cf6b884b45ca8, type: 2}
+    PatchesHolder: {fileID: 0}
+  - Definition: {fileID: 11400000, guid: 2e1477badf7df89498c61ac222d37e70, type: 2}
+    PatchesHolder: {fileID: 0}
+  - Definition: {fileID: 11400000, guid: 58f626ad64dd51542a7db2d81632d2ac, type: 2}
+    PatchesHolder: {fileID: 0}
+  - Definition: {fileID: 11400000, guid: 389beb68d2a76ca41b16450e83621290, type: 2}
+    PatchesHolder: {fileID: 0}
+  DataHolder: {fileID: 114643741445022042, guid: bc743c433f923244fbb27a1f856963d6,
+    type: 2}
+--- !u!114 &114391299280835878
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1338990464092986}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b66d3a77b1ebb26428920ff8ea9e6eb4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  WindStrength: 1
+  WaveStrength: 1
+  WaveFrequency: 0.5
+--- !u!114 &114398672190352886
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1984757256758664}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88c04ca18fcd58e4291bd8642ebed152, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PatchesResolution: 64
+  RandomSeed: 64626021
+  RuntimeFrameBudget: 10
+  RuntimeRebuildDistance: 150
+  RuntimeDestroyDistance: 150
+  MeshScaleMultiplier: 1
+  RuntimeDensityMultiplier: 1
+  Types: []
+  DataHolder: {fileID: 114486129197142304, guid: 6588f3fbe6e3ee54fa3a6fdae9aba932,
+    type: 2}
+--- !u!114 &114418485772547802
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1984757256758664}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42f8d6cc422e1954a893b4f459c5aa20, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  IconAuto: {fileID: 2800000, guid: 524b82a1a55d14e4b94af0977e8e5238, type: 3}
+  Shader: 2
+  Layers:
+  - Name: Grass
+    ColorTexture: {fileID: 2800000, guid: 8d6a348e3658456429fdf2377c904c4f, type: 3}
+    NormalsTexture: {fileID: 2800000, guid: 619b9391551a1844e8d27b8294d96424, type: 3}
+    SMOTexture: {fileID: 0}
+    Scale: 57.2
+    ScaleFar: 24.5
+    ScaleMixStart: 60
+    ScaleMixEnd: 300
+    UseAuto: 1
+    Angle:
+      From: -30
+      To: 30
+      Smoothing: 14.1
+    Height:
+      From: -1000
+      To: 600
+      Smoothing: 0
+    TextureBleed: 0.188
+    DisplacementScale: 0
+    Roughness: 1
+    Specular: {r: 0, g: 0, b: 0, a: 0}
+    UseTriplanarProjection: 0
+    OverlayStrength: 0.84
+    OverlayScale: 0.7
+  - Name: Pebbles
+    ColorTexture: {fileID: 2800000, guid: ecf52c93906aaa6409f96373c6e7ba7c, type: 3}
+    NormalsTexture: {fileID: 2800000, guid: 837d562cf4d574d40aa1c8b9d665b999, type: 3}
+    SMOTexture: {fileID: 2800000, guid: 7b639b2d9353e7a47bac5ddca33ff7da, type: 3}
+    Scale: 37.8
+    ScaleFar: 20
+    ScaleMixStart: 60
+    ScaleMixEnd: 300
+    UseAuto: 1
+    Angle:
+      From: 11.6
+      To: 34.7
+      Smoothing: 8.9
+    Height:
+      From: -1000
+      To: 600
+      Smoothing: 0
+    TextureBleed: 0.129
+    DisplacementScale: 0.208
+    Roughness: 0.2
+    Specular: {r: 0.60294116, g: 0.60294116, b: 0.60294116, a: 0}
+    UseTriplanarProjection: 0
+    OverlayStrength: 0.048
+    OverlayScale: 0.7
+  - Name: Cliffs
+    ColorTexture: {fileID: 2800000, guid: ee8431fad656bc246950a4d2e9994cd9, type: 3}
+    NormalsTexture: {fileID: 2800000, guid: 34ca1f0353361824d8b30681723dd51d, type: 3}
+    SMOTexture: {fileID: 2800000, guid: 322bec5d8e95d9649b01ecc1ab504af7, type: 3}
+    Scale: 20
+    ScaleFar: 4
+    ScaleMixStart: 60
+    ScaleMixEnd: 300
+    UseAuto: 1
+    Angle:
+      From: 26
+      To: 121.29
+      Smoothing: 28.6
+    Height:
+      From: -1000
+      To: 600
+      Smoothing: 1
+    TextureBleed: 0.1
+    DisplacementScale: 0.415
+    Roughness: 0.52
+    Specular: {r: 0.5, g: 0.5, b: 0.5, a: 0}
+    UseTriplanarProjection: 1
+    OverlayStrength: 0
+    OverlayScale: 1
+  - Name: Road_D
+    ColorTexture: {fileID: 2800000, guid: 7986012f35ccdf644a38fe6a8e729f84, type: 3}
+    NormalsTexture: {fileID: 2800000, guid: 81c9d1d72fdc7a041ae3793e89943b34, type: 3}
+    SMOTexture: {fileID: 2800000, guid: 6ed05210016545c4882eb052a03de127, type: 3}
+    Scale: 51.01
+    ScaleFar: 4
+    ScaleMixStart: 60
+    ScaleMixEnd: 300
+    UseAuto: 0
+    Angle:
+      From: -30
+      To: 60
+      Smoothing: 0
+    Height:
+      From: -1
+      To: 3
+      Smoothing: 0
+    TextureBleed: 1
+    DisplacementScale: 0.028
+    Roughness: 0.09
+    Specular: {r: 1, g: 1, b: 1, a: 0}
+    UseTriplanarProjection: 0
+    OverlayStrength: 0
+    OverlayScale: 1
+  ColorOverlay: {fileID: 2800000, guid: a21e7548a1cf41a4b8ff932ed4d9f88d, type: 3}
+  OverlayScaleMultiplier: 1
+  Displacement:
+    RangeMin: 40
+    RangeMax: 60
+    Tesselation: 3
+    FalloffPower: 0.78
+    GlobalScale: 3.16
+  ColorPaintTexture: {fileID: 2800000, guid: a2c113c84f8a4994eb083357923b440e, type: 3}
+  AutoDebugMode: 0
+  GlobalScale: 1
+--- !u!114 &114482874675260886
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1694116256425782}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b66d3a77b1ebb26428920ff8ea9e6eb4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  WindStrength: 1
+  WaveStrength: 1
+  WaveFrequency: 0.5
+--- !u!114 &114505991038637672
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1192501253533828}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42f8d6cc422e1954a893b4f459c5aa20, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  IconAuto: {fileID: 2800000, guid: 524b82a1a55d14e4b94af0977e8e5238, type: 3}
+  Shader: 2
+  Layers:
+  - Name: Grass
+    ColorTexture: {fileID: 2800000, guid: 08440c9f0d49f1b49b1afe2fa98a1b6c, type: 3}
+    NormalsTexture: {fileID: 2800000, guid: 619b9391551a1844e8d27b8294d96424, type: 3}
+    SMOTexture: {fileID: 0}
+    Scale: 120
+    ScaleFar: 60
+    ScaleMixStart: 60
+    ScaleMixEnd: 300
+    UseAuto: 1
+    Angle:
+      From: -30
+      To: 30
+      Smoothing: 14.1
+    Height:
+      From: -1000
+      To: 600
+      Smoothing: 0
+    TextureBleed: 0.188
+    DisplacementScale: 0
+    Roughness: 1
+    Specular: {r: 0, g: 0, b: 0, a: 0}
+    UseTriplanarProjection: 0
+    OverlayStrength: 0.84
+    OverlayScale: 0.7
+  - Name: Pebbles
+    ColorTexture: {fileID: 2800000, guid: ecf52c93906aaa6409f96373c6e7ba7c, type: 3}
+    NormalsTexture: {fileID: 2800000, guid: 837d562cf4d574d40aa1c8b9d665b999, type: 3}
+    SMOTexture: {fileID: 2800000, guid: 7b639b2d9353e7a47bac5ddca33ff7da, type: 3}
+    Scale: 37.8
+    ScaleFar: 20
+    ScaleMixStart: 60
+    ScaleMixEnd: 300
+    UseAuto: 1
+    Angle:
+      From: 11.6
+      To: 34.7
+      Smoothing: 8.9
+    Height:
+      From: -1000
+      To: 600
+      Smoothing: 0
+    TextureBleed: 0.129
+    DisplacementScale: 0.208
+    Roughness: 0.2
+    Specular: {r: 0.60294116, g: 0.60294116, b: 0.60294116, a: 0}
+    UseTriplanarProjection: 0
+    OverlayStrength: 0.048
+    OverlayScale: 0.7
+  - Name: Cliffs
+    ColorTexture: {fileID: 2800000, guid: b44aaecf53dc9ca4384f5e80f62be232, type: 3}
+    NormalsTexture: {fileID: 2800000, guid: 34ca1f0353361824d8b30681723dd51d, type: 3}
+    SMOTexture: {fileID: 2800000, guid: 322bec5d8e95d9649b01ecc1ab504af7, type: 3}
+    Scale: 20
+    ScaleFar: 4
+    ScaleMixStart: 60
+    ScaleMixEnd: 300
+    UseAuto: 1
+    Angle:
+      From: 26
+      To: 121.29
+      Smoothing: 28.6
+    Height:
+      From: -1000
+      To: 600
+      Smoothing: 1
+    TextureBleed: 0.1
+    DisplacementScale: 0.309
+    Roughness: 0.52
+    Specular: {r: 0.5, g: 0.5, b: 0.5, a: 0}
+    UseTriplanarProjection: 1
+    OverlayStrength: 0
+    OverlayScale: 1
+  - Name: Road_D
+    ColorTexture: {fileID: 2800000, guid: 7986012f35ccdf644a38fe6a8e729f84, type: 3}
+    NormalsTexture: {fileID: 2800000, guid: 81c9d1d72fdc7a041ae3793e89943b34, type: 3}
+    SMOTexture: {fileID: 2800000, guid: 6ed05210016545c4882eb052a03de127, type: 3}
+    Scale: 51.01
+    ScaleFar: 4
+    ScaleMixStart: 60
+    ScaleMixEnd: 300
+    UseAuto: 0
+    Angle:
+      From: -30
+      To: 60
+      Smoothing: 0
+    Height:
+      From: -1
+      To: 3
+      Smoothing: 0
+    TextureBleed: 1
+    DisplacementScale: 0.028
+    Roughness: 0.09
+    Specular: {r: 1, g: 1, b: 1, a: 0}
+    UseTriplanarProjection: 0
+    OverlayStrength: 0
+    OverlayScale: 1
+  ColorOverlay: {fileID: 2800000, guid: a21e7548a1cf41a4b8ff932ed4d9f88d, type: 3}
+  OverlayScaleMultiplier: 1
+  Displacement:
+    RangeMin: 40
+    RangeMax: 60
+    Tesselation: 3
+    FalloffPower: 0.78
+    GlobalScale: 3.16
+  ColorPaintTexture: {fileID: 2800000, guid: a2c113c84f8a4994eb083357923b440e, type: 3}
+  AutoDebugMode: 0
+  GlobalScale: 1
+--- !u!114 &114548859854981440
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1876745875045910}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88c04ca18fcd58e4291bd8642ebed152, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PatchesResolution: 64
+  RandomSeed: 1257989766
+  RuntimeFrameBudget: 10
+  RuntimeRebuildDistance: 150
+  RuntimeDestroyDistance: 150
+  MeshScaleMultiplier: 1
+  RuntimeDensityMultiplier: 1
+  Types: []
+  DataHolder: {fileID: 114663048265049296, guid: a464fd7b3c314824092533928738f503,
+    type: 2}
+--- !u!114 &114550015743186824
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1338990464092986}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42f8d6cc422e1954a893b4f459c5aa20, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  IconAuto: {fileID: 2800000, guid: 524b82a1a55d14e4b94af0977e8e5238, type: 3}
+  Shader: 2
+  Layers:
+  - Name: Grass
+    ColorTexture: {fileID: 2800000, guid: 8d6a348e3658456429fdf2377c904c4f, type: 3}
+    NormalsTexture: {fileID: 2800000, guid: 619b9391551a1844e8d27b8294d96424, type: 3}
+    SMOTexture: {fileID: 0}
+    Scale: 57.2
+    ScaleFar: 24.5
+    ScaleMixStart: 60
+    ScaleMixEnd: 300
+    UseAuto: 1
+    Angle:
+      From: -30
+      To: 30
+      Smoothing: 14.1
+    Height:
+      From: -1000
+      To: 600
+      Smoothing: 0
+    TextureBleed: 0.188
+    DisplacementScale: 0
+    Roughness: 1
+    Specular: {r: 0, g: 0, b: 0, a: 0}
+    UseTriplanarProjection: 0
+    OverlayStrength: 0.84
+    OverlayScale: 0.7
+  - Name: Pebbles
+    ColorTexture: {fileID: 2800000, guid: ecf52c93906aaa6409f96373c6e7ba7c, type: 3}
+    NormalsTexture: {fileID: 2800000, guid: 837d562cf4d574d40aa1c8b9d665b999, type: 3}
+    SMOTexture: {fileID: 2800000, guid: 7b639b2d9353e7a47bac5ddca33ff7da, type: 3}
+    Scale: 37.8
+    ScaleFar: 20
+    ScaleMixStart: 60
+    ScaleMixEnd: 300
+    UseAuto: 1
+    Angle:
+      From: 11.6
+      To: 34.7
+      Smoothing: 8.9
+    Height:
+      From: -1000
+      To: 600
+      Smoothing: 0
+    TextureBleed: 0.129
+    DisplacementScale: 0.208
+    Roughness: 0.2
+    Specular: {r: 0.60294116, g: 0.60294116, b: 0.60294116, a: 0}
+    UseTriplanarProjection: 0
+    OverlayStrength: 0.048
+    OverlayScale: 0.7
+  - Name: Cliffs
+    ColorTexture: {fileID: 2800000, guid: ee8431fad656bc246950a4d2e9994cd9, type: 3}
+    NormalsTexture: {fileID: 2800000, guid: 34ca1f0353361824d8b30681723dd51d, type: 3}
+    SMOTexture: {fileID: 2800000, guid: 322bec5d8e95d9649b01ecc1ab504af7, type: 3}
+    Scale: 20
+    ScaleFar: 4
+    ScaleMixStart: 60
+    ScaleMixEnd: 300
+    UseAuto: 1
+    Angle:
+      From: 26
+      To: 121.29
+      Smoothing: 28.6
+    Height:
+      From: -1000
+      To: 600
+      Smoothing: 1
+    TextureBleed: 0.1
+    DisplacementScale: 0.415
+    Roughness: 0.52
+    Specular: {r: 0.5, g: 0.5, b: 0.5, a: 0}
+    UseTriplanarProjection: 1
+    OverlayStrength: 0
+    OverlayScale: 1
+  - Name: Road_D
+    ColorTexture: {fileID: 2800000, guid: 7986012f35ccdf644a38fe6a8e729f84, type: 3}
+    NormalsTexture: {fileID: 2800000, guid: 81c9d1d72fdc7a041ae3793e89943b34, type: 3}
+    SMOTexture: {fileID: 2800000, guid: 6ed05210016545c4882eb052a03de127, type: 3}
+    Scale: 51.01
+    ScaleFar: 4
+    ScaleMixStart: 60
+    ScaleMixEnd: 300
+    UseAuto: 0
+    Angle:
+      From: -30
+      To: 60
+      Smoothing: 0
+    Height:
+      From: -1
+      To: 3
+      Smoothing: 0
+    TextureBleed: 1
+    DisplacementScale: 0.028
+    Roughness: 0.09
+    Specular: {r: 1, g: 1, b: 1, a: 0}
+    UseTriplanarProjection: 0
+    OverlayStrength: 0
+    OverlayScale: 1
+  ColorOverlay: {fileID: 2800000, guid: a21e7548a1cf41a4b8ff932ed4d9f88d, type: 3}
+  OverlayScaleMultiplier: 1
+  Displacement:
+    RangeMin: 40
+    RangeMax: 60
+    Tesselation: 3
+    FalloffPower: 0.78
+    GlobalScale: 3.16
+  ColorPaintTexture: {fileID: 2800000, guid: a2c113c84f8a4994eb083357923b440e, type: 3}
+  AutoDebugMode: 0
+  GlobalScale: 1
+--- !u!114 &114556111928767380
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1594668384335240}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88c04ca18fcd58e4291bd8642ebed152, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PatchesResolution: 64
+  RandomSeed: 232569213
+  RuntimeFrameBudget: 10
+  RuntimeRebuildDistance: 150
+  RuntimeDestroyDistance: 150
+  MeshScaleMultiplier: 1
+  RuntimeDensityMultiplier: 1
+  Types: []
+  DataHolder: {fileID: 114312266450131312, guid: e0e539e445d480c4e8e11409b1aed42c,
+    type: 2}
+--- !u!114 &114586476782192820
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1292670933733282}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42f8d6cc422e1954a893b4f459c5aa20, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  IconAuto: {fileID: 2800000, guid: 524b82a1a55d14e4b94af0977e8e5238, type: 3}
+  Shader: 2
+  Layers:
+  - Name: Grass
+    ColorTexture: {fileID: 2800000, guid: 8d6a348e3658456429fdf2377c904c4f, type: 3}
+    NormalsTexture: {fileID: 2800000, guid: 619b9391551a1844e8d27b8294d96424, type: 3}
+    SMOTexture: {fileID: 0}
+    Scale: 57.2
+    ScaleFar: 24.5
+    ScaleMixStart: 60
+    ScaleMixEnd: 300
+    UseAuto: 1
+    Angle:
+      From: -30
+      To: 30
+      Smoothing: 14.1
+    Height:
+      From: -1000
+      To: 600
+      Smoothing: 0
+    TextureBleed: 0.188
+    DisplacementScale: 0
+    Roughness: 1
+    Specular: {r: 0, g: 0, b: 0, a: 0}
+    UseTriplanarProjection: 0
+    OverlayStrength: 0.84
+    OverlayScale: 0.7
+  - Name: Pebbles
+    ColorTexture: {fileID: 2800000, guid: ecf52c93906aaa6409f96373c6e7ba7c, type: 3}
+    NormalsTexture: {fileID: 2800000, guid: 837d562cf4d574d40aa1c8b9d665b999, type: 3}
+    SMOTexture: {fileID: 2800000, guid: 7b639b2d9353e7a47bac5ddca33ff7da, type: 3}
+    Scale: 37.8
+    ScaleFar: 20
+    ScaleMixStart: 60
+    ScaleMixEnd: 300
+    UseAuto: 1
+    Angle:
+      From: 11.6
+      To: 34.7
+      Smoothing: 8.9
+    Height:
+      From: -1000
+      To: 600
+      Smoothing: 0
+    TextureBleed: 0.129
+    DisplacementScale: 0.208
+    Roughness: 0.2
+    Specular: {r: 0.60294116, g: 0.60294116, b: 0.60294116, a: 0}
+    UseTriplanarProjection: 0
+    OverlayStrength: 0.048
+    OverlayScale: 0.7
+  - Name: Cliffs
+    ColorTexture: {fileID: 2800000, guid: ee8431fad656bc246950a4d2e9994cd9, type: 3}
+    NormalsTexture: {fileID: 2800000, guid: 34ca1f0353361824d8b30681723dd51d, type: 3}
+    SMOTexture: {fileID: 2800000, guid: 322bec5d8e95d9649b01ecc1ab504af7, type: 3}
+    Scale: 20
+    ScaleFar: 4
+    ScaleMixStart: 60
+    ScaleMixEnd: 300
+    UseAuto: 1
+    Angle:
+      From: 26
+      To: 121.29
+      Smoothing: 28.6
+    Height:
+      From: -1000
+      To: 600
+      Smoothing: 1
+    TextureBleed: 0.1
+    DisplacementScale: 0.415
+    Roughness: 0.52
+    Specular: {r: 0.5, g: 0.5, b: 0.5, a: 0}
+    UseTriplanarProjection: 1
+    OverlayStrength: 0
+    OverlayScale: 1
+  - Name: Road_D
+    ColorTexture: {fileID: 2800000, guid: 7986012f35ccdf644a38fe6a8e729f84, type: 3}
+    NormalsTexture: {fileID: 2800000, guid: 81c9d1d72fdc7a041ae3793e89943b34, type: 3}
+    SMOTexture: {fileID: 2800000, guid: 6ed05210016545c4882eb052a03de127, type: 3}
+    Scale: 51.01
+    ScaleFar: 4
+    ScaleMixStart: 60
+    ScaleMixEnd: 300
+    UseAuto: 0
+    Angle:
+      From: -30
+      To: 60
+      Smoothing: 0
+    Height:
+      From: -1
+      To: 3
+      Smoothing: 0
+    TextureBleed: 1
+    DisplacementScale: 0.028
+    Roughness: 0.09
+    Specular: {r: 1, g: 1, b: 1, a: 0}
+    UseTriplanarProjection: 0
+    OverlayStrength: 0
+    OverlayScale: 1
+  ColorOverlay: {fileID: 2800000, guid: a21e7548a1cf41a4b8ff932ed4d9f88d, type: 3}
+  OverlayScaleMultiplier: 1
+  Displacement:
+    RangeMin: 40
+    RangeMax: 60
+    Tesselation: 3
+    FalloffPower: 0.78
+    GlobalScale: 3.16
+  ColorPaintTexture: {fileID: 2800000, guid: a2c113c84f8a4994eb083357923b440e, type: 3}
+  AutoDebugMode: 0
+  GlobalScale: 1
+--- !u!114 &114611328098719424
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1293024173166266}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88c04ca18fcd58e4291bd8642ebed152, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PatchesResolution: 64
+  RandomSeed: 2035455637
+  RuntimeFrameBudget: 10
+  RuntimeRebuildDistance: 150
+  RuntimeDestroyDistance: 150
+  MeshScaleMultiplier: 1
+  RuntimeDensityMultiplier: 1
+  Types: []
+  DataHolder: {fileID: 114188462604014178, guid: 30a80774e460a0b44a6e5ddfd1209351,
+    type: 2}
+--- !u!114 &114633157926896608
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1694116256425782}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88c04ca18fcd58e4291bd8642ebed152, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PatchesResolution: 64
+  RandomSeed: 882300821
+  RuntimeFrameBudget: 10
+  RuntimeRebuildDistance: 150
+  RuntimeDestroyDistance: 150
+  MeshScaleMultiplier: 1
+  RuntimeDensityMultiplier: 1
+  Types: []
+  DataHolder: {fileID: 114684446026719880, guid: a5b929ddb018ca6489e5de1149124edf,
+    type: 2}
+--- !u!114 &114635733846371764
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1594668384335240}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42f8d6cc422e1954a893b4f459c5aa20, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  IconAuto: {fileID: 2800000, guid: 524b82a1a55d14e4b94af0977e8e5238, type: 3}
+  Shader: 2
+  Layers:
+  - Name: Grass
+    ColorTexture: {fileID: 2800000, guid: 8d6a348e3658456429fdf2377c904c4f, type: 3}
+    NormalsTexture: {fileID: 2800000, guid: 619b9391551a1844e8d27b8294d96424, type: 3}
+    SMOTexture: {fileID: 0}
+    Scale: 57.2
+    ScaleFar: 24.5
+    ScaleMixStart: 60
+    ScaleMixEnd: 300
+    UseAuto: 1
+    Angle:
+      From: -30
+      To: 30
+      Smoothing: 14.1
+    Height:
+      From: -1000
+      To: 600
+      Smoothing: 0
+    TextureBleed: 0.188
+    DisplacementScale: 0
+    Roughness: 1
+    Specular: {r: 0, g: 0, b: 0, a: 0}
+    UseTriplanarProjection: 0
+    OverlayStrength: 0.84
+    OverlayScale: 0.7
+  - Name: Pebbles
+    ColorTexture: {fileID: 2800000, guid: ecf52c93906aaa6409f96373c6e7ba7c, type: 3}
+    NormalsTexture: {fileID: 2800000, guid: 837d562cf4d574d40aa1c8b9d665b999, type: 3}
+    SMOTexture: {fileID: 2800000, guid: 7b639b2d9353e7a47bac5ddca33ff7da, type: 3}
+    Scale: 37.8
+    ScaleFar: 20
+    ScaleMixStart: 60
+    ScaleMixEnd: 300
+    UseAuto: 1
+    Angle:
+      From: 11.6
+      To: 34.7
+      Smoothing: 8.9
+    Height:
+      From: -1000
+      To: 600
+      Smoothing: 0
+    TextureBleed: 0.129
+    DisplacementScale: 0.208
+    Roughness: 0.2
+    Specular: {r: 0.60294116, g: 0.60294116, b: 0.60294116, a: 0}
+    UseTriplanarProjection: 0
+    OverlayStrength: 0.048
+    OverlayScale: 0.7
+  - Name: Cliffs
+    ColorTexture: {fileID: 2800000, guid: ee8431fad656bc246950a4d2e9994cd9, type: 3}
+    NormalsTexture: {fileID: 2800000, guid: 34ca1f0353361824d8b30681723dd51d, type: 3}
+    SMOTexture: {fileID: 2800000, guid: 322bec5d8e95d9649b01ecc1ab504af7, type: 3}
+    Scale: 20
+    ScaleFar: 4
+    ScaleMixStart: 60
+    ScaleMixEnd: 300
+    UseAuto: 1
+    Angle:
+      From: 26
+      To: 121.29
+      Smoothing: 28.6
+    Height:
+      From: -1000
+      To: 600
+      Smoothing: 1
+    TextureBleed: 0.1
+    DisplacementScale: 0.415
+    Roughness: 0.52
+    Specular: {r: 0.5, g: 0.5, b: 0.5, a: 0}
+    UseTriplanarProjection: 1
+    OverlayStrength: 0
+    OverlayScale: 1
+  - Name: Road_D
+    ColorTexture: {fileID: 2800000, guid: 7986012f35ccdf644a38fe6a8e729f84, type: 3}
+    NormalsTexture: {fileID: 2800000, guid: 81c9d1d72fdc7a041ae3793e89943b34, type: 3}
+    SMOTexture: {fileID: 2800000, guid: 6ed05210016545c4882eb052a03de127, type: 3}
+    Scale: 51.01
+    ScaleFar: 4
+    ScaleMixStart: 60
+    ScaleMixEnd: 300
+    UseAuto: 0
+    Angle:
+      From: -30
+      To: 60
+      Smoothing: 0
+    Height:
+      From: -1
+      To: 3
+      Smoothing: 0
+    TextureBleed: 1
+    DisplacementScale: 0.028
+    Roughness: 0.09
+    Specular: {r: 1, g: 1, b: 1, a: 0}
+    UseTriplanarProjection: 0
+    OverlayStrength: 0
+    OverlayScale: 1
+  ColorOverlay: {fileID: 2800000, guid: a21e7548a1cf41a4b8ff932ed4d9f88d, type: 3}
+  OverlayScaleMultiplier: 1
+  Displacement:
+    RangeMin: 40
+    RangeMax: 60
+    Tesselation: 3
+    FalloffPower: 0.78
+    GlobalScale: 3.16
+  ColorPaintTexture: {fileID: 2800000, guid: a2c113c84f8a4994eb083357923b440e, type: 3}
+  AutoDebugMode: 0
+  GlobalScale: 1
+--- !u!114 &114684201981045114
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1102510695793318}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88c04ca18fcd58e4291bd8642ebed152, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PatchesResolution: 64
+  RandomSeed: 670083796
+  RuntimeFrameBudget: 10
+  RuntimeRebuildDistance: 150
+  RuntimeDestroyDistance: 150
+  MeshScaleMultiplier: 1
+  RuntimeDensityMultiplier: 1
+  Types: []
+  DataHolder: {fileID: 114132451021013194, guid: 4c4609d7f281bee45bb5f63678fe7aee,
+    type: 2}
+--- !u!114 &114695371259160952
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1143484980322872}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42f8d6cc422e1954a893b4f459c5aa20, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  IconAuto: {fileID: 2800000, guid: 524b82a1a55d14e4b94af0977e8e5238, type: 3}
+  Shader: 2
+  Layers:
+  - Name: Grass
+    ColorTexture: {fileID: 2800000, guid: 8d6a348e3658456429fdf2377c904c4f, type: 3}
+    NormalsTexture: {fileID: 2800000, guid: 619b9391551a1844e8d27b8294d96424, type: 3}
+    SMOTexture: {fileID: 0}
+    Scale: 57.2
+    ScaleFar: 24.5
+    ScaleMixStart: 60
+    ScaleMixEnd: 300
+    UseAuto: 1
+    Angle:
+      From: -30
+      To: 30
+      Smoothing: 14.1
+    Height:
+      From: -1000
+      To: 600
+      Smoothing: 0
+    TextureBleed: 0.188
+    DisplacementScale: 0
+    Roughness: 1
+    Specular: {r: 0, g: 0, b: 0, a: 0}
+    UseTriplanarProjection: 0
+    OverlayStrength: 0.84
+    OverlayScale: 0.7
+  - Name: Pebbles
+    ColorTexture: {fileID: 2800000, guid: ecf52c93906aaa6409f96373c6e7ba7c, type: 3}
+    NormalsTexture: {fileID: 2800000, guid: 837d562cf4d574d40aa1c8b9d665b999, type: 3}
+    SMOTexture: {fileID: 2800000, guid: 7b639b2d9353e7a47bac5ddca33ff7da, type: 3}
+    Scale: 37.8
+    ScaleFar: 20
+    ScaleMixStart: 60
+    ScaleMixEnd: 300
+    UseAuto: 1
+    Angle:
+      From: 11.6
+      To: 34.7
+      Smoothing: 8.9
+    Height:
+      From: -1000
+      To: 600
+      Smoothing: 0
+    TextureBleed: 0.129
+    DisplacementScale: 0.208
+    Roughness: 0.2
+    Specular: {r: 0.60294116, g: 0.60294116, b: 0.60294116, a: 0}
+    UseTriplanarProjection: 0
+    OverlayStrength: 0.048
+    OverlayScale: 0.7
+  - Name: Cliffs
+    ColorTexture: {fileID: 2800000, guid: ee8431fad656bc246950a4d2e9994cd9, type: 3}
+    NormalsTexture: {fileID: 2800000, guid: 34ca1f0353361824d8b30681723dd51d, type: 3}
+    SMOTexture: {fileID: 2800000, guid: 322bec5d8e95d9649b01ecc1ab504af7, type: 3}
+    Scale: 20
+    ScaleFar: 4
+    ScaleMixStart: 60
+    ScaleMixEnd: 300
+    UseAuto: 1
+    Angle:
+      From: 26
+      To: 121.29
+      Smoothing: 28.6
+    Height:
+      From: -1000
+      To: 600
+      Smoothing: 1
+    TextureBleed: 0.1
+    DisplacementScale: 0.415
+    Roughness: 0.52
+    Specular: {r: 0.5, g: 0.5, b: 0.5, a: 0}
+    UseTriplanarProjection: 1
+    OverlayStrength: 0
+    OverlayScale: 1
+  - Name: Road_D
+    ColorTexture: {fileID: 2800000, guid: 7986012f35ccdf644a38fe6a8e729f84, type: 3}
+    NormalsTexture: {fileID: 2800000, guid: 81c9d1d72fdc7a041ae3793e89943b34, type: 3}
+    SMOTexture: {fileID: 2800000, guid: 6ed05210016545c4882eb052a03de127, type: 3}
+    Scale: 51.01
+    ScaleFar: 4
+    ScaleMixStart: 60
+    ScaleMixEnd: 300
+    UseAuto: 0
+    Angle:
+      From: -30
+      To: 60
+      Smoothing: 0
+    Height:
+      From: -1
+      To: 3
+      Smoothing: 0
+    TextureBleed: 1
+    DisplacementScale: 0.028
+    Roughness: 0.09
+    Specular: {r: 1, g: 1, b: 1, a: 0}
+    UseTriplanarProjection: 0
+    OverlayStrength: 0
+    OverlayScale: 1
+  ColorOverlay: {fileID: 2800000, guid: a21e7548a1cf41a4b8ff932ed4d9f88d, type: 3}
+  OverlayScaleMultiplier: 1
+  Displacement:
+    RangeMin: 40
+    RangeMax: 60
+    Tesselation: 3
+    FalloffPower: 0.78
+    GlobalScale: 3.16
+  ColorPaintTexture: {fileID: 2800000, guid: a2c113c84f8a4994eb083357923b440e, type: 3}
+  AutoDebugMode: 0
+  GlobalScale: 1
+--- !u!114 &114706376629361354
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1694116256425782}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42f8d6cc422e1954a893b4f459c5aa20, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  IconAuto: {fileID: 2800000, guid: 524b82a1a55d14e4b94af0977e8e5238, type: 3}
+  Shader: 2
+  Layers:
+  - Name: Grass
+    ColorTexture: {fileID: 2800000, guid: 8d6a348e3658456429fdf2377c904c4f, type: 3}
+    NormalsTexture: {fileID: 2800000, guid: 619b9391551a1844e8d27b8294d96424, type: 3}
+    SMOTexture: {fileID: 0}
+    Scale: 57.2
+    ScaleFar: 24.5
+    ScaleMixStart: 60
+    ScaleMixEnd: 300
+    UseAuto: 1
+    Angle:
+      From: -30
+      To: 30
+      Smoothing: 14.1
+    Height:
+      From: -1000
+      To: 600
+      Smoothing: 0
+    TextureBleed: 0.188
+    DisplacementScale: 0
+    Roughness: 1
+    Specular: {r: 0, g: 0, b: 0, a: 0}
+    UseTriplanarProjection: 0
+    OverlayStrength: 0.84
+    OverlayScale: 0.7
+  - Name: Pebbles
+    ColorTexture: {fileID: 2800000, guid: ecf52c93906aaa6409f96373c6e7ba7c, type: 3}
+    NormalsTexture: {fileID: 2800000, guid: 837d562cf4d574d40aa1c8b9d665b999, type: 3}
+    SMOTexture: {fileID: 2800000, guid: 7b639b2d9353e7a47bac5ddca33ff7da, type: 3}
+    Scale: 37.8
+    ScaleFar: 20
+    ScaleMixStart: 60
+    ScaleMixEnd: 300
+    UseAuto: 1
+    Angle:
+      From: 11.6
+      To: 34.7
+      Smoothing: 8.9
+    Height:
+      From: -1000
+      To: 600
+      Smoothing: 0
+    TextureBleed: 0.129
+    DisplacementScale: 0.208
+    Roughness: 0.2
+    Specular: {r: 0.60294116, g: 0.60294116, b: 0.60294116, a: 0}
+    UseTriplanarProjection: 0
+    OverlayStrength: 0.048
+    OverlayScale: 0.7
+  - Name: Cliffs
+    ColorTexture: {fileID: 2800000, guid: ee8431fad656bc246950a4d2e9994cd9, type: 3}
+    NormalsTexture: {fileID: 2800000, guid: 34ca1f0353361824d8b30681723dd51d, type: 3}
+    SMOTexture: {fileID: 2800000, guid: 322bec5d8e95d9649b01ecc1ab504af7, type: 3}
+    Scale: 20
+    ScaleFar: 4
+    ScaleMixStart: 60
+    ScaleMixEnd: 300
+    UseAuto: 1
+    Angle:
+      From: 26
+      To: 121.29
+      Smoothing: 28.6
+    Height:
+      From: -1000
+      To: 600
+      Smoothing: 1
+    TextureBleed: 0.1
+    DisplacementScale: 0.415
+    Roughness: 0.52
+    Specular: {r: 0.5, g: 0.5, b: 0.5, a: 0}
+    UseTriplanarProjection: 1
+    OverlayStrength: 0
+    OverlayScale: 1
+  - Name: Road_D
+    ColorTexture: {fileID: 2800000, guid: 7986012f35ccdf644a38fe6a8e729f84, type: 3}
+    NormalsTexture: {fileID: 2800000, guid: 81c9d1d72fdc7a041ae3793e89943b34, type: 3}
+    SMOTexture: {fileID: 2800000, guid: 6ed05210016545c4882eb052a03de127, type: 3}
+    Scale: 51.01
+    ScaleFar: 4
+    ScaleMixStart: 60
+    ScaleMixEnd: 300
+    UseAuto: 0
+    Angle:
+      From: -30
+      To: 60
+      Smoothing: 0
+    Height:
+      From: -1
+      To: 3
+      Smoothing: 0
+    TextureBleed: 1
+    DisplacementScale: 0.028
+    Roughness: 0.09
+    Specular: {r: 1, g: 1, b: 1, a: 0}
+    UseTriplanarProjection: 0
+    OverlayStrength: 0
+    OverlayScale: 1
+  ColorOverlay: {fileID: 2800000, guid: a21e7548a1cf41a4b8ff932ed4d9f88d, type: 3}
+  OverlayScaleMultiplier: 1
+  Displacement:
+    RangeMin: 40
+    RangeMax: 60
+    Tesselation: 3
+    FalloffPower: 0.78
+    GlobalScale: 3.16
+  ColorPaintTexture: {fileID: 2800000, guid: a2c113c84f8a4994eb083357923b440e, type: 3}
+  AutoDebugMode: 0
+  GlobalScale: 1
+--- !u!114 &114725944609530768
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1876745875045910}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42f8d6cc422e1954a893b4f459c5aa20, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  IconAuto: {fileID: 2800000, guid: 524b82a1a55d14e4b94af0977e8e5238, type: 3}
+  Shader: 2
+  Layers:
+  - Name: Grass
+    ColorTexture: {fileID: 2800000, guid: 8d6a348e3658456429fdf2377c904c4f, type: 3}
+    NormalsTexture: {fileID: 2800000, guid: 619b9391551a1844e8d27b8294d96424, type: 3}
+    SMOTexture: {fileID: 0}
+    Scale: 57.2
+    ScaleFar: 24.5
+    ScaleMixStart: 60
+    ScaleMixEnd: 300
+    UseAuto: 1
+    Angle:
+      From: -30
+      To: 30
+      Smoothing: 14.1
+    Height:
+      From: -1000
+      To: 600
+      Smoothing: 0
+    TextureBleed: 0.188
+    DisplacementScale: 0
+    Roughness: 1
+    Specular: {r: 0, g: 0, b: 0, a: 0}
+    UseTriplanarProjection: 0
+    OverlayStrength: 0.84
+    OverlayScale: 0.7
+  - Name: Pebbles
+    ColorTexture: {fileID: 2800000, guid: ecf52c93906aaa6409f96373c6e7ba7c, type: 3}
+    NormalsTexture: {fileID: 2800000, guid: 837d562cf4d574d40aa1c8b9d665b999, type: 3}
+    SMOTexture: {fileID: 2800000, guid: 7b639b2d9353e7a47bac5ddca33ff7da, type: 3}
+    Scale: 37.8
+    ScaleFar: 20
+    ScaleMixStart: 60
+    ScaleMixEnd: 300
+    UseAuto: 1
+    Angle:
+      From: 11.6
+      To: 34.7
+      Smoothing: 8.9
+    Height:
+      From: -1000
+      To: 600
+      Smoothing: 0
+    TextureBleed: 0.129
+    DisplacementScale: 0.208
+    Roughness: 0.2
+    Specular: {r: 0.60294116, g: 0.60294116, b: 0.60294116, a: 0}
+    UseTriplanarProjection: 0
+    OverlayStrength: 0.048
+    OverlayScale: 0.7
+  - Name: Cliffs
+    ColorTexture: {fileID: 2800000, guid: ee8431fad656bc246950a4d2e9994cd9, type: 3}
+    NormalsTexture: {fileID: 2800000, guid: 34ca1f0353361824d8b30681723dd51d, type: 3}
+    SMOTexture: {fileID: 2800000, guid: 322bec5d8e95d9649b01ecc1ab504af7, type: 3}
+    Scale: 20
+    ScaleFar: 4
+    ScaleMixStart: 60
+    ScaleMixEnd: 300
+    UseAuto: 1
+    Angle:
+      From: 26
+      To: 121.29
+      Smoothing: 28.6
+    Height:
+      From: -1000
+      To: 600
+      Smoothing: 1
+    TextureBleed: 0.1
+    DisplacementScale: 0.415
+    Roughness: 0.52
+    Specular: {r: 0.5, g: 0.5, b: 0.5, a: 0}
+    UseTriplanarProjection: 1
+    OverlayStrength: 0
+    OverlayScale: 1
+  - Name: Road_D
+    ColorTexture: {fileID: 2800000, guid: 7986012f35ccdf644a38fe6a8e729f84, type: 3}
+    NormalsTexture: {fileID: 2800000, guid: 81c9d1d72fdc7a041ae3793e89943b34, type: 3}
+    SMOTexture: {fileID: 2800000, guid: 6ed05210016545c4882eb052a03de127, type: 3}
+    Scale: 51.01
+    ScaleFar: 4
+    ScaleMixStart: 60
+    ScaleMixEnd: 300
+    UseAuto: 0
+    Angle:
+      From: -30
+      To: 60
+      Smoothing: 0
+    Height:
+      From: -1
+      To: 3
+      Smoothing: 0
+    TextureBleed: 1
+    DisplacementScale: 0.028
+    Roughness: 0.09
+    Specular: {r: 1, g: 1, b: 1, a: 0}
+    UseTriplanarProjection: 0
+    OverlayStrength: 0
+    OverlayScale: 1
+  ColorOverlay: {fileID: 2800000, guid: a21e7548a1cf41a4b8ff932ed4d9f88d, type: 3}
+  OverlayScaleMultiplier: 1
+  Displacement:
+    RangeMin: 40
+    RangeMax: 60
+    Tesselation: 3
+    FalloffPower: 0.78
+    GlobalScale: 3.16
+  ColorPaintTexture: {fileID: 2800000, guid: a2c113c84f8a4994eb083357923b440e, type: 3}
+  AutoDebugMode: 0
+  GlobalScale: 1
+--- !u!114 &114753831361087982
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1295748635067054}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b66d3a77b1ebb26428920ff8ea9e6eb4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  WindStrength: 1
+  WaveStrength: 1
+  WaveFrequency: 0.5
+--- !u!114 &114770513936675080
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1876745875045910}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b66d3a77b1ebb26428920ff8ea9e6eb4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  WindStrength: 1
+  WaveStrength: 1
+  WaveFrequency: 0.5
+--- !u!114 &114772009689531184
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1292670933733282}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b66d3a77b1ebb26428920ff8ea9e6eb4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  WindStrength: 1
+  WaveStrength: 1
+  WaveFrequency: 0.5
+--- !u!114 &114813937768484118
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1143484980322872}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88c04ca18fcd58e4291bd8642ebed152, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PatchesResolution: 64
+  RandomSeed: 1040625693
+  RuntimeFrameBudget: 10
+  RuntimeRebuildDistance: 150
+  RuntimeDestroyDistance: 150
+  MeshScaleMultiplier: 1
+  RuntimeDensityMultiplier: 1
+  Types: []
+  DataHolder: {fileID: 114631096079662904, guid: 1551019ef9a09334b98084a871f320cb,
+    type: 2}
+--- !u!114 &114865101903138864
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1984757256758664}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b66d3a77b1ebb26428920ff8ea9e6eb4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  WindStrength: 1
+  WaveStrength: 1
+  WaveFrequency: 0.5
+--- !u!114 &114876835733226032
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1295748635067054}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88c04ca18fcd58e4291bd8642ebed152, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PatchesResolution: 64
+  RandomSeed: 1805992763
+  RuntimeFrameBudget: 10
+  RuntimeRebuildDistance: 150
+  RuntimeDestroyDistance: 150
+  MeshScaleMultiplier: 1
+  RuntimeDensityMultiplier: 1
+  Types: []
+  DataHolder: {fileID: 114348959644345348, guid: 125418d413b3b204bbe6fde32765bd91,
+    type: 2}
+--- !u!114 &114881221860419290
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1594668384335240}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b66d3a77b1ebb26428920ff8ea9e6eb4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  WindStrength: 1
+  WaveStrength: 1
+  WaveFrequency: 0.5
+--- !u!114 &114891259385483520
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1293024173166266}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42f8d6cc422e1954a893b4f459c5aa20, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  IconAuto: {fileID: 2800000, guid: 524b82a1a55d14e4b94af0977e8e5238, type: 3}
+  Shader: 2
+  Layers:
+  - Name: Grass
+    ColorTexture: {fileID: 2800000, guid: 8d6a348e3658456429fdf2377c904c4f, type: 3}
+    NormalsTexture: {fileID: 2800000, guid: 619b9391551a1844e8d27b8294d96424, type: 3}
+    SMOTexture: {fileID: 0}
+    Scale: 57.2
+    ScaleFar: 24.5
+    ScaleMixStart: 60
+    ScaleMixEnd: 300
+    UseAuto: 1
+    Angle:
+      From: -30
+      To: 30
+      Smoothing: 14.1
+    Height:
+      From: -1000
+      To: 600
+      Smoothing: 0
+    TextureBleed: 0.188
+    DisplacementScale: 0
+    Roughness: 1
+    Specular: {r: 0, g: 0, b: 0, a: 0}
+    UseTriplanarProjection: 0
+    OverlayStrength: 0.84
+    OverlayScale: 0.7
+  - Name: Pebbles
+    ColorTexture: {fileID: 2800000, guid: ecf52c93906aaa6409f96373c6e7ba7c, type: 3}
+    NormalsTexture: {fileID: 2800000, guid: 837d562cf4d574d40aa1c8b9d665b999, type: 3}
+    SMOTexture: {fileID: 2800000, guid: 7b639b2d9353e7a47bac5ddca33ff7da, type: 3}
+    Scale: 37.8
+    ScaleFar: 20
+    ScaleMixStart: 60
+    ScaleMixEnd: 300
+    UseAuto: 1
+    Angle:
+      From: 11.6
+      To: 34.7
+      Smoothing: 8.9
+    Height:
+      From: -1000
+      To: 600
+      Smoothing: 0
+    TextureBleed: 0.129
+    DisplacementScale: 0.208
+    Roughness: 0.2
+    Specular: {r: 0.60294116, g: 0.60294116, b: 0.60294116, a: 0}
+    UseTriplanarProjection: 0
+    OverlayStrength: 0.048
+    OverlayScale: 0.7
+  - Name: Cliffs
+    ColorTexture: {fileID: 2800000, guid: ee8431fad656bc246950a4d2e9994cd9, type: 3}
+    NormalsTexture: {fileID: 2800000, guid: 34ca1f0353361824d8b30681723dd51d, type: 3}
+    SMOTexture: {fileID: 2800000, guid: 322bec5d8e95d9649b01ecc1ab504af7, type: 3}
+    Scale: 20
+    ScaleFar: 4
+    ScaleMixStart: 60
+    ScaleMixEnd: 300
+    UseAuto: 1
+    Angle:
+      From: 26
+      To: 121.29
+      Smoothing: 28.6
+    Height:
+      From: -1000
+      To: 600
+      Smoothing: 1
+    TextureBleed: 0.1
+    DisplacementScale: 0.415
+    Roughness: 0.52
+    Specular: {r: 0.5, g: 0.5, b: 0.5, a: 0}
+    UseTriplanarProjection: 1
+    OverlayStrength: 0
+    OverlayScale: 1
+  - Name: Road_D
+    ColorTexture: {fileID: 2800000, guid: 7986012f35ccdf644a38fe6a8e729f84, type: 3}
+    NormalsTexture: {fileID: 2800000, guid: 81c9d1d72fdc7a041ae3793e89943b34, type: 3}
+    SMOTexture: {fileID: 2800000, guid: 6ed05210016545c4882eb052a03de127, type: 3}
+    Scale: 51.01
+    ScaleFar: 4
+    ScaleMixStart: 60
+    ScaleMixEnd: 300
+    UseAuto: 0
+    Angle:
+      From: -30
+      To: 60
+      Smoothing: 0
+    Height:
+      From: -1
+      To: 3
+      Smoothing: 0
+    TextureBleed: 1
+    DisplacementScale: 0.028
+    Roughness: 0.09
+    Specular: {r: 1, g: 1, b: 1, a: 0}
+    UseTriplanarProjection: 0
+    OverlayStrength: 0
+    OverlayScale: 1
+  ColorOverlay: {fileID: 2800000, guid: a21e7548a1cf41a4b8ff932ed4d9f88d, type: 3}
+  OverlayScaleMultiplier: 1
+  Displacement:
+    RangeMin: 40
+    RangeMax: 60
+    Tesselation: 3
+    FalloffPower: 0.78
+    GlobalScale: 3.16
+  ColorPaintTexture: {fileID: 2800000, guid: a2c113c84f8a4994eb083357923b440e, type: 3}
+  AutoDebugMode: 0
+  GlobalScale: 1
+--- !u!114 &114893967661077300
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1984757256758664}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa689aa644fb53a4b8256e0622b491e7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  RandomSeed: 1088622411
+  SplatMaskScaleMultiplier: 6.2
+  Layers:
+  - Name: Grass00
+    PaintLayer:
+      Type: 2
+      DetailIndex: 0
+      TreeColorVariation:
+        serializedVersion: 2
+        key0: {r: 0, g: 0, b: 0, a: 0}
+        key1: {r: 0, g: 0, b: 0, a: 0}
+        key2: {r: 0, g: 0, b: 0, a: 0}
+        key3: {r: 0, g: 0, b: 0, a: 0}
+        key4: {r: 0, g: 0, b: 0, a: 0}
+        key5: {r: 0, g: 0, b: 0, a: 0}
+        key6: {r: 0, g: 0, b: 0, a: 0}
+        key7: {r: 0, g: 0, b: 0, a: 0}
+        ctime0: 0
+        ctime1: 65535
+        ctime2: 0
+        ctime3: 0
+        ctime4: 0
+        ctime5: 0
+        ctime6: 0
+        ctime7: 0
+        atime0: 0
+        atime1: 65535
+        atime2: 0
+        atime3: 0
+        atime4: 0
+        atime5: 0
+        atime6: 0
+        atime7: 0
+        m_Mode: 0
+        m_NumColorKeys: 2
+        m_NumAlphaKeys: 2
+      TreeScaleVariation:
+        Min: 0
+        Max: 0
+      TreeHeightVariation:
+        Min: 0
+        Max: 0
+    TextureLayerWeights:
+    - 0
+    - 0
+    - 0
+    - 0
+    SlopeCutoff:
+      From: -3
+      To: 72.3
+      Smoothing: 3
+    Density: 0
+    RandomVariation: 0
+    MinWeight: 0.99
+    MaskTexture: {fileID: 2800000, guid: d15e0a7fb91ef5e4997370ca13ee7160, type: 3}
+    MaskTextureScale: 0.8
+    MaskChannel: 4
+    DodgeUpperLayers: 0
+    SkipRepaint: 0
+  - Name: Grass01
+    PaintLayer:
+      Type: 2
+      DetailIndex: 1
+      TreeColorVariation:
+        serializedVersion: 2
+        key0: {r: 0, g: 0, b: 0, a: 0}
+        key1: {r: 0, g: 0, b: 0, a: 0}
+        key2: {r: 0, g: 0, b: 0, a: 0}
+        key3: {r: 0, g: 0, b: 0, a: 0}
+        key4: {r: 0, g: 0, b: 0, a: 0}
+        key5: {r: 0, g: 0, b: 0, a: 0}
+        key6: {r: 0, g: 0, b: 0, a: 0}
+        key7: {r: 0, g: 0, b: 0, a: 0}
+        ctime0: 0
+        ctime1: 65535
+        ctime2: 0
+        ctime3: 0
+        ctime4: 0
+        ctime5: 0
+        ctime6: 0
+        ctime7: 0
+        atime0: 0
+        atime1: 65535
+        atime2: 0
+        atime3: 0
+        atime4: 0
+        atime5: 0
+        atime6: 0
+        atime7: 0
+        m_Mode: 0
+        m_NumColorKeys: 2
+        m_NumAlphaKeys: 2
+      TreeScaleVariation:
+        Min: 0
+        Max: 0
+      TreeHeightVariation:
+        Min: 0
+        Max: 0
+    TextureLayerWeights:
+    - 0
+    - 0
+    - 0
+    - 0
+    SlopeCutoff:
+      From: -3
+      To: 60
+      Smoothing: 3
+    Density: 0
+    RandomVariation: 0
+    MinWeight: 0.99
+    MaskTexture: {fileID: 2800000, guid: d15e0a7fb91ef5e4997370ca13ee7160, type: 3}
+    MaskTextureScale: 0.8
+    MaskChannel: 4
+    DodgeUpperLayers: 0
+    SkipRepaint: 0
+  - Name: Flowers1
+    PaintLayer:
+      Type: 2
+      DetailIndex: 2
+      TreeColorVariation:
+        serializedVersion: 2
+        key0: {r: 0, g: 0, b: 0, a: 0}
+        key1: {r: 0, g: 0, b: 0, a: 0}
+        key2: {r: 0, g: 0, b: 0, a: 0}
+        key3: {r: 0, g: 0, b: 0, a: 0}
+        key4: {r: 0, g: 0, b: 0, a: 0}
+        key5: {r: 0, g: 0, b: 0, a: 0}
+        key6: {r: 0, g: 0, b: 0, a: 0}
+        key7: {r: 0, g: 0, b: 0, a: 0}
+        ctime0: 0
+        ctime1: 65535
+        ctime2: 0
+        ctime3: 0
+        ctime4: 0
+        ctime5: 0
+        ctime6: 0
+        ctime7: 0
+        atime0: 0
+        atime1: 65535
+        atime2: 0
+        atime3: 0
+        atime4: 0
+        atime5: 0
+        atime6: 0
+        atime7: 0
+        m_Mode: 0
+        m_NumColorKeys: 2
+        m_NumAlphaKeys: 2
+      TreeScaleVariation:
+        Min: 0
+        Max: 0
+      TreeHeightVariation:
+        Min: 0
+        Max: 0
+    TextureLayerWeights:
+    - 1
+    - 0
+    - 0
+    - 0
+    SlopeCutoff:
+      From: -3
+      To: 60
+      Smoothing: 3
+    Density: 0.0015
+    RandomVariation: 0
+    MinWeight: 0.99
+    MaskTexture: {fileID: 2800000, guid: d15e0a7fb91ef5e4997370ca13ee7160, type: 3}
+    MaskTextureScale: 0.8
+    MaskChannel: 4
+    DodgeUpperLayers: 0
+    SkipRepaint: 0
+  - Name: Flowers2
+    PaintLayer:
+      Type: 2
+      DetailIndex: 3
+      TreeColorVariation:
+        serializedVersion: 2
+        key0: {r: 0, g: 0, b: 0, a: 0}
+        key1: {r: 0, g: 0, b: 0, a: 0}
+        key2: {r: 0, g: 0, b: 0, a: 0}
+        key3: {r: 0, g: 0, b: 0, a: 0}
+        key4: {r: 0, g: 0, b: 0, a: 0}
+        key5: {r: 0, g: 0, b: 0, a: 0}
+        key6: {r: 0, g: 0, b: 0, a: 0}
+        key7: {r: 0, g: 0, b: 0, a: 0}
+        ctime0: 0
+        ctime1: 65535
+        ctime2: 0
+        ctime3: 0
+        ctime4: 0
+        ctime5: 0
+        ctime6: 0
+        ctime7: 0
+        atime0: 0
+        atime1: 65535
+        atime2: 0
+        atime3: 0
+        atime4: 0
+        atime5: 0
+        atime6: 0
+        atime7: 0
+        m_Mode: 0
+        m_NumColorKeys: 2
+        m_NumAlphaKeys: 2
+      TreeScaleVariation:
+        Min: 0
+        Max: 0
+      TreeHeightVariation:
+        Min: 0
+        Max: 0
+    TextureLayerWeights:
+    - 1
+    - 0
+    - 0
+    - 0
+    SlopeCutoff:
+      From: -3
+      To: 60
+      Smoothing: 3
+    Density: 0.0015
+    RandomVariation: 0
+    MinWeight: 0.99
+    MaskTexture: {fileID: 2800000, guid: d15e0a7fb91ef5e4997370ca13ee7160, type: 3}
+    MaskTextureScale: 0.8
+    MaskChannel: 4
+    DodgeUpperLayers: 0
+    SkipRepaint: 0
+  - Name: Flowers3
+    PaintLayer:
+      Type: 2
+      DetailIndex: 4
+      TreeColorVariation:
+        serializedVersion: 2
+        key0: {r: 0, g: 0, b: 0, a: 0}
+        key1: {r: 0, g: 0, b: 0, a: 0}
+        key2: {r: 0, g: 0, b: 0, a: 0}
+        key3: {r: 0, g: 0, b: 0, a: 0}
+        key4: {r: 0, g: 0, b: 0, a: 0}
+        key5: {r: 0, g: 0, b: 0, a: 0}
+        key6: {r: 0, g: 0, b: 0, a: 0}
+        key7: {r: 0, g: 0, b: 0, a: 0}
+        ctime0: 0
+        ctime1: 65535
+        ctime2: 0
+        ctime3: 0
+        ctime4: 0
+        ctime5: 0
+        ctime6: 0
+        ctime7: 0
+        atime0: 0
+        atime1: 65535
+        atime2: 0
+        atime3: 0
+        atime4: 0
+        atime5: 0
+        atime6: 0
+        atime7: 0
+        m_Mode: 0
+        m_NumColorKeys: 2
+        m_NumAlphaKeys: 2
+      TreeScaleVariation:
+        Min: 0
+        Max: 0
+      TreeHeightVariation:
+        Min: 0
+        Max: 0
+    TextureLayerWeights:
+    - 1
+    - 0
+    - 0
+    - 0
+    SlopeCutoff:
+      From: -3
+      To: 60
+      Smoothing: 3
+    Density: 0.006
+    RandomVariation: 0
+    MinWeight: 0.99
+    MaskTexture: {fileID: 2800000, guid: d15e0a7fb91ef5e4997370ca13ee7160, type: 3}
+    MaskTextureScale: 0.8
+    MaskChannel: 1
+    DodgeUpperLayers: 0
+    SkipRepaint: 0
+  - Name: BigFormations_StonesHuge
+    PaintLayer:
+      Type: 2
+      DetailIndex: 5
+      TreeColorVariation:
+        serializedVersion: 2
+        key0: {r: 0, g: 0, b: 0, a: 0}
+        key1: {r: 0, g: 0, b: 0, a: 0}
+        key2: {r: 0, g: 0, b: 0, a: 0}
+        key3: {r: 0, g: 0, b: 0, a: 0}
+        key4: {r: 0, g: 0, b: 0, a: 0}
+        key5: {r: 0, g: 0, b: 0, a: 0}
+        key6: {r: 0, g: 0, b: 0, a: 0}
+        key7: {r: 0, g: 0, b: 0, a: 0}
+        ctime0: 0
+        ctime1: 65535
+        ctime2: 0
+        ctime3: 0
+        ctime4: 0
+        ctime5: 0
+        ctime6: 0
+        ctime7: 0
+        atime0: 0
+        atime1: 65535
+        atime2: 0
+        atime3: 0
+        atime4: 0
+        atime5: 0
+        atime6: 0
+        atime7: 0
+        m_Mode: 0
+        m_NumColorKeys: 2
+        m_NumAlphaKeys: 2
+      TreeScaleVariation:
+        Min: 0
+        Max: 0
+      TreeHeightVariation:
+        Min: 0
+        Max: 0
+    TextureLayerWeights:
+    - 1
+    - 0
+    - 0
+    - 0
+    SlopeCutoff:
+      From: -3
+      To: 70
+      Smoothing: 3
+    Density: 0.0048
+    RandomVariation: 0
+    MinWeight: 0.99
+    MaskTexture: {fileID: 2800000, guid: d15e0a7fb91ef5e4997370ca13ee7160, type: 3}
+    MaskTextureScale: 0.8
+    MaskChannel: 0
+    DodgeUpperLayers: 0
+    SkipRepaint: 0
+  - Name: MedFormations_Bush00
+    PaintLayer:
+      Type: 2
+      DetailIndex: 17
+      TreeColorVariation:
+        serializedVersion: 2
+        key0: {r: 0, g: 0, b: 0, a: 0}
+        key1: {r: 0, g: 0, b: 0, a: 0}
+        key2: {r: 0, g: 0, b: 0, a: 0}
+        key3: {r: 0, g: 0, b: 0, a: 0}
+        key4: {r: 0, g: 0, b: 0, a: 0}
+        key5: {r: 0, g: 0, b: 0, a: 0}
+        key6: {r: 0, g: 0, b: 0, a: 0}
+        key7: {r: 0, g: 0, b: 0, a: 0}
+        ctime0: 0
+        ctime1: 65535
+        ctime2: 0
+        ctime3: 0
+        ctime4: 0
+        ctime5: 0
+        ctime6: 0
+        ctime7: 0
+        atime0: 0
+        atime1: 65535
+        atime2: 0
+        atime3: 0
+        atime4: 0
+        atime5: 0
+        atime6: 0
+        atime7: 0
+        m_Mode: 0
+        m_NumColorKeys: 2
+        m_NumAlphaKeys: 2
+      TreeScaleVariation:
+        Min: 0
+        Max: 0
+      TreeHeightVariation:
+        Min: 0
+        Max: 0
+    TextureLayerWeights:
+    - 1
+    - 0
+    - 0
+    - 0
+    SlopeCutoff:
+      From: -3
+      To: 60
+      Smoothing: 3
+    Density: 0.5
+    RandomVariation: 0.169
+    MinWeight: 0.99
+    MaskTexture: {fileID: 2800000, guid: d15e0a7fb91ef5e4997370ca13ee7160, type: 3}
+    MaskTextureScale: 0.8
+    MaskChannel: 1
+    DodgeUpperLayers: 0
+    SkipRepaint: 0
+  - Name: MedFormations_Bush01
+    PaintLayer:
+      Type: 2
+      DetailIndex: 7
+      TreeColorVariation:
+        serializedVersion: 2
+        key0: {r: 0, g: 0, b: 0, a: 0}
+        key1: {r: 0, g: 0, b: 0, a: 0}
+        key2: {r: 0, g: 0, b: 0, a: 0}
+        key3: {r: 0, g: 0, b: 0, a: 0}
+        key4: {r: 0, g: 0, b: 0, a: 0}
+        key5: {r: 0, g: 0, b: 0, a: 0}
+        key6: {r: 0, g: 0, b: 0, a: 0}
+        key7: {r: 0, g: 0, b: 0, a: 0}
+        ctime0: 0
+        ctime1: 65535
+        ctime2: 0
+        ctime3: 0
+        ctime4: 0
+        ctime5: 0
+        ctime6: 0
+        ctime7: 0
+        atime0: 0
+        atime1: 65535
+        atime2: 0
+        atime3: 0
+        atime4: 0
+        atime5: 0
+        atime6: 0
+        atime7: 0
+        m_Mode: 0
+        m_NumColorKeys: 2
+        m_NumAlphaKeys: 2
+      TreeScaleVariation:
+        Min: 0
+        Max: 0
+      TreeHeightVariation:
+        Min: 0
+        Max: 0
+    TextureLayerWeights:
+    - 1
+    - 0
+    - 0
+    - 0
+    SlopeCutoff:
+      From: -3
+      To: 45
+      Smoothing: 3
+    Density: 3.75
+    RandomVariation: 0.661
+    MinWeight: 0.99
+    MaskTexture: {fileID: 2800000, guid: d15e0a7fb91ef5e4997370ca13ee7160, type: 3}
+    MaskTextureScale: 0.8
+    MaskChannel: 1
+    DodgeUpperLayers: 0
+    SkipRepaint: 0
+  - Name: MedFormations_FlowersMuch
+    PaintLayer:
+      Type: 2
+      DetailIndex: 18
+      TreeColorVariation:
+        serializedVersion: 2
+        key0: {r: 0, g: 0, b: 0, a: 0}
+        key1: {r: 0, g: 0, b: 0, a: 0}
+        key2: {r: 0, g: 0, b: 0, a: 0}
+        key3: {r: 0, g: 0, b: 0, a: 0}
+        key4: {r: 0, g: 0, b: 0, a: 0}
+        key5: {r: 0, g: 0, b: 0, a: 0}
+        key6: {r: 0, g: 0, b: 0, a: 0}
+        key7: {r: 0, g: 0, b: 0, a: 0}
+        ctime0: 0
+        ctime1: 65535
+        ctime2: 0
+        ctime3: 0
+        ctime4: 0
+        ctime5: 0
+        ctime6: 0
+        ctime7: 0
+        atime0: 0
+        atime1: 65535
+        atime2: 0
+        atime3: 0
+        atime4: 0
+        atime5: 0
+        atime6: 0
+        atime7: 0
+        m_Mode: 0
+        m_NumColorKeys: 2
+        m_NumAlphaKeys: 2
+      TreeScaleVariation:
+        Min: 0
+        Max: 0
+      TreeHeightVariation:
+        Min: 0
+        Max: 0
+    TextureLayerWeights:
+    - 1
+    - 0
+    - 0
+    - 0
+    SlopeCutoff:
+      From: -3
+      To: 60
+      Smoothing: 3
+    Density: 0.009
+    RandomVariation: 0.913
+    MinWeight: 0.99
+    MaskTexture: {fileID: 2800000, guid: d15e0a7fb91ef5e4997370ca13ee7160, type: 3}
+    MaskTextureScale: 0.8
+    MaskChannel: 1
+    DodgeUpperLayers: 0
+    SkipRepaint: 0
+  - Name: BigFormations_StonesSmall
+    PaintLayer:
+      Type: 2
+      DetailIndex: 9
+      TreeColorVariation:
+        serializedVersion: 2
+        key0: {r: 0, g: 0, b: 0, a: 0}
+        key1: {r: 0, g: 0, b: 0, a: 0}
+        key2: {r: 0, g: 0, b: 0, a: 0}
+        key3: {r: 0, g: 0, b: 0, a: 0}
+        key4: {r: 0, g: 0, b: 0, a: 0}
+        key5: {r: 0, g: 0, b: 0, a: 0}
+        key6: {r: 0, g: 0, b: 0, a: 0}
+        key7: {r: 0, g: 0, b: 0, a: 0}
+        ctime0: 0
+        ctime1: 65535
+        ctime2: 0
+        ctime3: 0
+        ctime4: 0
+        ctime5: 0
+        ctime6: 0
+        ctime7: 0
+        atime0: 0
+        atime1: 65535
+        atime2: 0
+        atime3: 0
+        atime4: 0
+        atime5: 0
+        atime6: 0
+        atime7: 0
+        m_Mode: 0
+        m_NumColorKeys: 2
+        m_NumAlphaKeys: 2
+      TreeScaleVariation:
+        Min: 0
+        Max: 0
+      TreeHeightVariation:
+        Min: 0
+        Max: 0
+    TextureLayerWeights:
+    - 1
+    - 0
+    - 0
+    - 0
+    SlopeCutoff:
+      From: -3
+      To: 70
+      Smoothing: 3
+    Density: 0.12
+    RandomVariation: 0.913
+    MinWeight: 0.99
+    MaskTexture: {fileID: 2800000, guid: d15e0a7fb91ef5e4997370ca13ee7160, type: 3}
+    MaskTextureScale: 0.8
+    MaskChannel: 0
+    DodgeUpperLayers: 0
+    SkipRepaint: 0
+  - Name: MedFormations_Bush01
+    PaintLayer:
+      Type: 2
+      DetailIndex: 7
+      TreeColorVariation:
+        serializedVersion: 2
+        key0: {r: 0, g: 0, b: 0, a: 0}
+        key1: {r: 0, g: 0, b: 0, a: 0}
+        key2: {r: 0, g: 0, b: 0, a: 0}
+        key3: {r: 0, g: 0, b: 0, a: 0}
+        key4: {r: 0, g: 0, b: 0, a: 0}
+        key5: {r: 0, g: 0, b: 0, a: 0}
+        key6: {r: 0, g: 0, b: 0, a: 0}
+        key7: {r: 0, g: 0, b: 0, a: 0}
+        ctime0: 0
+        ctime1: 65535
+        ctime2: 0
+        ctime3: 0
+        ctime4: 0
+        ctime5: 0
+        ctime6: 0
+        ctime7: 0
+        atime0: 0
+        atime1: 65535
+        atime2: 0
+        atime3: 0
+        atime4: 0
+        atime5: 0
+        atime6: 0
+        atime7: 0
+        m_Mode: 0
+        m_NumColorKeys: 2
+        m_NumAlphaKeys: 2
+      TreeScaleVariation:
+        Min: 0
+        Max: 0
+      TreeHeightVariation:
+        Min: 0
+        Max: 0
+    TextureLayerWeights:
+    - 1
+    - 0
+    - 0
+    - 0
+    SlopeCutoff:
+      From: -3
+      To: 60
+      Smoothing: 3
+    Density: 2
+    RandomVariation: 0.913
+    MinWeight: 0.99
+    MaskTexture: {fileID: 2800000, guid: d15e0a7fb91ef5e4997370ca13ee7160, type: 3}
+    MaskTextureScale: 0.8
+    MaskChannel: 1
+    DodgeUpperLayers: 0
+    SkipRepaint: 0
+  - Name: BigFormations_Grass00Big
+    PaintLayer:
+      Type: 2
+      DetailIndex: 10
+      TreeColorVariation:
+        serializedVersion: 2
+        key0: {r: 1, g: 1, b: 1, a: 1}
+        key1: {r: 1, g: 0.95686275, b: 0.68235296, a: 1}
+        key2: {r: 1, g: 1, b: 1, a: 0}
+        key3: {r: 1, g: 1, b: 1, a: 0}
+        key4: {r: 0, g: 0, b: 0, a: 0}
+        key5: {r: 0, g: 0, b: 0, a: 0}
+        key6: {r: 0, g: 0, b: 0, a: 0}
+        key7: {r: 0, g: 0, b: 0, a: 0}
+        ctime0: 0
+        ctime1: 9445
+        ctime2: 19468
+        ctime3: 65535
+        ctime4: 0
+        ctime5: 0
+        ctime6: 0
+        ctime7: 0
+        atime0: 0
+        atime1: 65535
+        atime2: 0
+        atime3: 0
+        atime4: 0
+        atime5: 0
+        atime6: 0
+        atime7: 0
+        m_Mode: 0
+        m_NumColorKeys: 4
+        m_NumAlphaKeys: 2
+      TreeScaleVariation:
+        Min: 0.3
+        Max: 1
+      TreeHeightVariation:
+        Min: 1
+        Max: 1
+    TextureLayerWeights:
+    - 1
+    - 0
+    - 0
+    - 0
+    SlopeCutoff:
+      From: -3
+      To: 60
+      Smoothing: 3
+    Density: 0.04
+    RandomVariation: 0.913
+    MinWeight: 0.99
+    MaskTexture: {fileID: 2800000, guid: d15e0a7fb91ef5e4997370ca13ee7160, type: 3}
+    MaskTextureScale: 0.8
+    MaskChannel: 0
+    DodgeUpperLayers: 0
+    SkipRepaint: 0
+  - Name: BigFormations_YellowFlowers
+    PaintLayer:
+      Type: 2
+      DetailIndex: 3
+      TreeColorVariation:
+        serializedVersion: 2
+        key0: {r: 1, g: 1, b: 1, a: 1}
+        key1: {r: 1, g: 0.95686275, b: 0.68235296, a: 1}
+        key2: {r: 1, g: 1, b: 1, a: 0}
+        key3: {r: 1, g: 1, b: 1, a: 0}
+        key4: {r: 0, g: 0, b: 0, a: 0}
+        key5: {r: 0, g: 0, b: 0, a: 0}
+        key6: {r: 0, g: 0, b: 0, a: 0}
+        key7: {r: 0, g: 0, b: 0, a: 0}
+        ctime0: 0
+        ctime1: 9445
+        ctime2: 19468
+        ctime3: 65535
+        ctime4: 0
+        ctime5: 0
+        ctime6: 0
+        ctime7: 0
+        atime0: 0
+        atime1: 65535
+        atime2: 0
+        atime3: 0
+        atime4: 0
+        atime5: 0
+        atime6: 0
+        atime7: 0
+        m_Mode: 0
+        m_NumColorKeys: 4
+        m_NumAlphaKeys: 2
+      TreeScaleVariation:
+        Min: 0.3
+        Max: 1
+      TreeHeightVariation:
+        Min: 1
+        Max: 1
+    TextureLayerWeights:
+    - 1
+    - 0
+    - 0
+    - 0
+    SlopeCutoff:
+      From: -3
+      To: 60
+      Smoothing: 3
+    Density: 0.06
+    RandomVariation: 0.913
+    MinWeight: 0.99
+    MaskTexture: {fileID: 2800000, guid: d15e0a7fb91ef5e4997370ca13ee7160, type: 3}
+    MaskTextureScale: 0.8
+    MaskChannel: 0
+    DodgeUpperLayers: 0
+    SkipRepaint: 0
+  - Name: LowFormations_Grass01Small
+    PaintLayer:
+      Type: 2
+      DetailIndex: 13
+      TreeColorVariation:
+        serializedVersion: 2
+        key0: {r: 1, g: 1, b: 1, a: 1}
+        key1: {r: 1, g: 0.95686275, b: 0.68235296, a: 1}
+        key2: {r: 1, g: 1, b: 1, a: 0}
+        key3: {r: 1, g: 1, b: 1, a: 0}
+        key4: {r: 0, g: 0, b: 0, a: 0}
+        key5: {r: 0, g: 0, b: 0, a: 0}
+        key6: {r: 0, g: 0, b: 0, a: 0}
+        key7: {r: 0, g: 0, b: 0, a: 0}
+        ctime0: 0
+        ctime1: 9445
+        ctime2: 19468
+        ctime3: 65535
+        ctime4: 0
+        ctime5: 0
+        ctime6: 0
+        ctime7: 0
+        atime0: 0
+        atime1: 65535
+        atime2: 0
+        atime3: 0
+        atime4: 0
+        atime5: 0
+        atime6: 0
+        atime7: 0
+        m_Mode: 0
+        m_NumColorKeys: 4
+        m_NumAlphaKeys: 2
+      TreeScaleVariation:
+        Min: 0.3
+        Max: 1
+      TreeHeightVariation:
+        Min: 1
+        Max: 1
+    TextureLayerWeights:
+    - 1
+    - 0
+    - 0
+    - 0
+    SlopeCutoff:
+      From: -3
+      To: 45
+      Smoothing: 3
+    Density: 1.2
+    RandomVariation: 0.913
+    MinWeight: 0.99
+    MaskTexture: {fileID: 2800000, guid: d15e0a7fb91ef5e4997370ca13ee7160, type: 3}
+    MaskTextureScale: 0.8
+    MaskChannel: 2
+    DodgeUpperLayers: 0
+    SkipRepaint: 0
+  - Name: MedFormations_Mix_Flowers
+    PaintLayer:
+      Type: 2
+      DetailIndex: 2
+      TreeColorVariation:
+        serializedVersion: 2
+        key0: {r: 1, g: 1, b: 1, a: 1}
+        key1: {r: 1, g: 0.95686275, b: 0.68235296, a: 1}
+        key2: {r: 1, g: 1, b: 1, a: 0}
+        key3: {r: 1, g: 1, b: 1, a: 0}
+        key4: {r: 0, g: 0, b: 0, a: 0}
+        key5: {r: 0, g: 0, b: 0, a: 0}
+        key6: {r: 0, g: 0, b: 0, a: 0}
+        key7: {r: 0, g: 0, b: 0, a: 0}
+        ctime0: 0
+        ctime1: 9445
+        ctime2: 19468
+        ctime3: 65535
+        ctime4: 0
+        ctime5: 0
+        ctime6: 0
+        ctime7: 0
+        atime0: 0
+        atime1: 65535
+        atime2: 0
+        atime3: 0
+        atime4: 0
+        atime5: 0
+        atime6: 0
+        atime7: 0
+        m_Mode: 0
+        m_NumColorKeys: 4
+        m_NumAlphaKeys: 2
+      TreeScaleVariation:
+        Min: 0.3
+        Max: 1
+      TreeHeightVariation:
+        Min: 1
+        Max: 1
+    TextureLayerWeights:
+    - 1
+    - 0
+    - 0
+    - 0
+    SlopeCutoff:
+      From: -3
+      To: 45
+      Smoothing: 3
+    Density: 0.12
+    RandomVariation: 0.913
+    MinWeight: 0.99
+    MaskTexture: {fileID: 2800000, guid: d15e0a7fb91ef5e4997370ca13ee7160, type: 3}
+    MaskTextureScale: 0.8
+    MaskChannel: 1
+    DodgeUpperLayers: 0
+    SkipRepaint: 0
+  - Name: BigFormations_StonesMedium
+    PaintLayer:
+      Type: 2
+      DetailIndex: 14
+      TreeColorVariation:
+        serializedVersion: 2
+        key0: {r: 1, g: 1, b: 1, a: 1}
+        key1: {r: 1, g: 0.95686275, b: 0.68235296, a: 1}
+        key2: {r: 1, g: 1, b: 1, a: 0}
+        key3: {r: 1, g: 1, b: 1, a: 0}
+        key4: {r: 0, g: 0, b: 0, a: 0}
+        key5: {r: 0, g: 0, b: 0, a: 0}
+        key6: {r: 0, g: 0, b: 0, a: 0}
+        key7: {r: 0, g: 0, b: 0, a: 0}
+        ctime0: 0
+        ctime1: 9445
+        ctime2: 19468
+        ctime3: 65535
+        ctime4: 0
+        ctime5: 0
+        ctime6: 0
+        ctime7: 0
+        atime0: 0
+        atime1: 65535
+        atime2: 0
+        atime3: 0
+        atime4: 0
+        atime5: 0
+        atime6: 0
+        atime7: 0
+        m_Mode: 0
+        m_NumColorKeys: 4
+        m_NumAlphaKeys: 2
+      TreeScaleVariation:
+        Min: 0.3
+        Max: 1
+      TreeHeightVariation:
+        Min: 1
+        Max: 1
+    TextureLayerWeights:
+    - 1
+    - 0
+    - 0
+    - 0
+    SlopeCutoff:
+      From: -3
+      To: 70
+      Smoothing: 3
+    Density: 0.064
+    RandomVariation: 0.913
+    MinWeight: 0.99
+    MaskTexture: {fileID: 2800000, guid: d15e0a7fb91ef5e4997370ca13ee7160, type: 3}
+    MaskTextureScale: 0.8
+    MaskChannel: 0
+    DodgeUpperLayers: 0
+    SkipRepaint: 0
+  - Name: LowFormations_Flowers_White
+    PaintLayer:
+      Type: 2
+      DetailIndex: 4
+      TreeColorVariation:
+        serializedVersion: 2
+        key0: {r: 1, g: 1, b: 1, a: 1}
+        key1: {r: 1, g: 0.95686275, b: 0.68235296, a: 1}
+        key2: {r: 1, g: 1, b: 1, a: 0}
+        key3: {r: 1, g: 1, b: 1, a: 0}
+        key4: {r: 0, g: 0, b: 0, a: 0}
+        key5: {r: 0, g: 0, b: 0, a: 0}
+        key6: {r: 0, g: 0, b: 0, a: 0}
+        key7: {r: 0, g: 0, b: 0, a: 0}
+        ctime0: 0
+        ctime1: 9445
+        ctime2: 19468
+        ctime3: 65535
+        ctime4: 0
+        ctime5: 0
+        ctime6: 0
+        ctime7: 0
+        atime0: 0
+        atime1: 65535
+        atime2: 0
+        atime3: 0
+        atime4: 0
+        atime5: 0
+        atime6: 0
+        atime7: 0
+        m_Mode: 0
+        m_NumColorKeys: 4
+        m_NumAlphaKeys: 2
+      TreeScaleVariation:
+        Min: 0.3
+        Max: 1
+      TreeHeightVariation:
+        Min: 1
+        Max: 1
+    TextureLayerWeights:
+    - 1
+    - 0
+    - 0
+    - 0
+    SlopeCutoff:
+      From: -3
+      To: 45
+      Smoothing: 3
+    Density: 0.012
+    RandomVariation: 0.913
+    MinWeight: 0.99
+    MaskTexture: {fileID: 2800000, guid: d15e0a7fb91ef5e4997370ca13ee7160, type: 3}
+    MaskTextureScale: 0.8
+    MaskChannel: 1
+    DodgeUpperLayers: 0
+    SkipRepaint: 0
+  - Name: LowFormations_FX
+    PaintLayer:
+      Type: 2
+      DetailIndex: 15
+      TreeColorVariation:
+        serializedVersion: 2
+        key0: {r: 1, g: 1, b: 1, a: 1}
+        key1: {r: 1, g: 0.95686275, b: 0.68235296, a: 1}
+        key2: {r: 1, g: 1, b: 1, a: 0}
+        key3: {r: 1, g: 1, b: 1, a: 0}
+        key4: {r: 0, g: 0, b: 0, a: 0}
+        key5: {r: 0, g: 0, b: 0, a: 0}
+        key6: {r: 0, g: 0, b: 0, a: 0}
+        key7: {r: 0, g: 0, b: 0, a: 0}
+        ctime0: 0
+        ctime1: 9445
+        ctime2: 19468
+        ctime3: 65535
+        ctime4: 0
+        ctime5: 0
+        ctime6: 0
+        ctime7: 0
+        atime0: 0
+        atime1: 65535
+        atime2: 0
+        atime3: 0
+        atime4: 0
+        atime5: 0
+        atime6: 0
+        atime7: 0
+        m_Mode: 0
+        m_NumColorKeys: 4
+        m_NumAlphaKeys: 2
+      TreeScaleVariation:
+        Min: 0.3
+        Max: 1
+      TreeHeightVariation:
+        Min: 1
+        Max: 1
+    TextureLayerWeights:
+    - 1
+    - 0
+    - 0
+    - 0
+    SlopeCutoff:
+      From: -3
+      To: 45
+      Smoothing: 3
+    Density: 0.1
+    RandomVariation: 0.913
+    MinWeight: 0.99
+    MaskTexture: {fileID: 2800000, guid: d15e0a7fb91ef5e4997370ca13ee7160, type: 3}
+    MaskTextureScale: 0.8
+    MaskChannel: 1
+    DodgeUpperLayers: 0
+    SkipRepaint: 0
+  - Name: BigFormations_FX
+    PaintLayer:
+      Type: 2
+      DetailIndex: 15
+      TreeColorVariation:
+        serializedVersion: 2
+        key0: {r: 1, g: 1, b: 1, a: 1}
+        key1: {r: 1, g: 0.95686275, b: 0.68235296, a: 1}
+        key2: {r: 1, g: 1, b: 1, a: 0}
+        key3: {r: 1, g: 1, b: 1, a: 0}
+        key4: {r: 0, g: 0, b: 0, a: 0}
+        key5: {r: 0, g: 0, b: 0, a: 0}
+        key6: {r: 0, g: 0, b: 0, a: 0}
+        key7: {r: 0, g: 0, b: 0, a: 0}
+        ctime0: 0
+        ctime1: 9445
+        ctime2: 19468
+        ctime3: 65535
+        ctime4: 0
+        ctime5: 0
+        ctime6: 0
+        ctime7: 0
+        atime0: 0
+        atime1: 65535
+        atime2: 0
+        atime3: 0
+        atime4: 0
+        atime5: 0
+        atime6: 0
+        atime7: 0
+        m_Mode: 0
+        m_NumColorKeys: 4
+        m_NumAlphaKeys: 2
+      TreeScaleVariation:
+        Min: 0.3
+        Max: 1
+      TreeHeightVariation:
+        Min: 1
+        Max: 1
+    TextureLayerWeights:
+    - 1
+    - 0
+    - 0
+    - 0
+    SlopeCutoff:
+      From: -3
+      To: 60
+      Smoothing: 3
+    Density: 0.021
+    RandomVariation: 0.913
+    MinWeight: 0.99
+    MaskTexture: {fileID: 2800000, guid: d15e0a7fb91ef5e4997370ca13ee7160, type: 3}
+    MaskTextureScale: 0.8
+    MaskChannel: 0
+    DodgeUpperLayers: 0
+    SkipRepaint: 0
+  - Name: Grass00Big
+    PaintLayer:
+      Type: 2
+      DetailIndex: 0
+      TreeColorVariation:
+        serializedVersion: 2
+        key0: {r: 1, g: 1, b: 1, a: 1}
+        key1: {r: 1, g: 0.95686275, b: 0.68235296, a: 1}
+        key2: {r: 1, g: 1, b: 1, a: 0}
+        key3: {r: 1, g: 1, b: 1, a: 0}
+        key4: {r: 0, g: 0, b: 0, a: 0}
+        key5: {r: 0, g: 0, b: 0, a: 0}
+        key6: {r: 0, g: 0, b: 0, a: 0}
+        key7: {r: 0, g: 0, b: 0, a: 0}
+        ctime0: 0
+        ctime1: 9445
+        ctime2: 19468
+        ctime3: 65535
+        ctime4: 0
+        ctime5: 0
+        ctime6: 0
+        ctime7: 0
+        atime0: 0
+        atime1: 65535
+        atime2: 0
+        atime3: 0
+        atime4: 0
+        atime5: 0
+        atime6: 0
+        atime7: 0
+        m_Mode: 0
+        m_NumColorKeys: 4
+        m_NumAlphaKeys: 2
+      TreeScaleVariation:
+        Min: 0.3
+        Max: 1
+      TreeHeightVariation:
+        Min: 1
+        Max: 1
+    TextureLayerWeights:
+    - 1
+    - 0
+    - 0
+    - 0
+    SlopeCutoff:
+      From: -3
+      To: 45
+      Smoothing: 3
+    Density: 0.003
+    RandomVariation: 0.913
+    MinWeight: 0.99
+    MaskTexture: {fileID: 2800000, guid: d15e0a7fb91ef5e4997370ca13ee7160, type: 3}
+    MaskTextureScale: 0.8
+    MaskChannel: 4
+    DodgeUpperLayers: 0
+    SkipRepaint: 0
+  - Name: Grass03Small
+    PaintLayer:
+      Type: 2
+      DetailIndex: 16
+      TreeColorVariation:
+        serializedVersion: 2
+        key0: {r: 1, g: 1, b: 1, a: 1}
+        key1: {r: 1, g: 0.95686275, b: 0.68235296, a: 1}
+        key2: {r: 1, g: 1, b: 1, a: 0}
+        key3: {r: 1, g: 1, b: 1, a: 0}
+        key4: {r: 0, g: 0, b: 0, a: 0}
+        key5: {r: 0, g: 0, b: 0, a: 0}
+        key6: {r: 0, g: 0, b: 0, a: 0}
+        key7: {r: 0, g: 0, b: 0, a: 0}
+        ctime0: 0
+        ctime1: 9445
+        ctime2: 19468
+        ctime3: 65535
+        ctime4: 0
+        ctime5: 0
+        ctime6: 0
+        ctime7: 0
+        atime0: 0
+        atime1: 65535
+        atime2: 0
+        atime3: 0
+        atime4: 0
+        atime5: 0
+        atime6: 0
+        atime7: 0
+        m_Mode: 0
+        m_NumColorKeys: 4
+        m_NumAlphaKeys: 2
+      TreeScaleVariation:
+        Min: 0.3
+        Max: 1
+      TreeHeightVariation:
+        Min: 1
+        Max: 1
+    TextureLayerWeights:
+    - 1
+    - 0
+    - 0
+    - 0
+    SlopeCutoff:
+      From: -3
+      To: 45
+      Smoothing: 3
+    Density: 0.032
+    RandomVariation: 0.913
+    MinWeight: 0.99
+    MaskTexture: {fileID: 2800000, guid: d15e0a7fb91ef5e4997370ca13ee7160, type: 3}
+    MaskTextureScale: 0.8
+    MaskChannel: 4
+    DodgeUpperLayers: 0
+    SkipRepaint: 0
+  - Name: Diff_Grass01_Small
+    PaintLayer:
+      Type: 2
+      DetailIndex: 13
+      TreeColorVariation:
+        serializedVersion: 2
+        key0: {r: 1, g: 1, b: 1, a: 1}
+        key1: {r: 1, g: 0.95686275, b: 0.68235296, a: 1}
+        key2: {r: 1, g: 1, b: 1, a: 0}
+        key3: {r: 1, g: 1, b: 1, a: 0}
+        key4: {r: 0, g: 0, b: 0, a: 0}
+        key5: {r: 0, g: 0, b: 0, a: 0}
+        key6: {r: 0, g: 0, b: 0, a: 0}
+        key7: {r: 0, g: 0, b: 0, a: 0}
+        ctime0: 0
+        ctime1: 9445
+        ctime2: 19468
+        ctime3: 65535
+        ctime4: 0
+        ctime5: 0
+        ctime6: 0
+        ctime7: 0
+        atime0: 0
+        atime1: 65535
+        atime2: 0
+        atime3: 0
+        atime4: 0
+        atime5: 0
+        atime6: 0
+        atime7: 0
+        m_Mode: 0
+        m_NumColorKeys: 4
+        m_NumAlphaKeys: 2
+      TreeScaleVariation:
+        Min: 0.3
+        Max: 1
+      TreeHeightVariation:
+        Min: 1
+        Max: 1
+    TextureLayerWeights:
+    - 1
+    - 0
+    - 0
+    - 0
+    SlopeCutoff:
+      From: -3
+      To: 45
+      Smoothing: 3
+    Density: 0.0375
+    RandomVariation: 0.913
+    MinWeight: 0.99
+    MaskTexture: {fileID: 2800000, guid: d15e0a7fb91ef5e4997370ca13ee7160, type: 3}
+    MaskTextureScale: 0.8
+    MaskChannel: 2
+    DodgeUpperLayers: 0
+    SkipRepaint: 0
+  - Name: Diff_Grass00
+    PaintLayer:
+      Type: 2
+      DetailIndex: 20
+      TreeColorVariation:
+        serializedVersion: 2
+        key0: {r: 1, g: 1, b: 1, a: 1}
+        key1: {r: 1, g: 0.95686275, b: 0.68235296, a: 1}
+        key2: {r: 1, g: 1, b: 1, a: 0}
+        key3: {r: 1, g: 1, b: 1, a: 0}
+        key4: {r: 0, g: 0, b: 0, a: 0}
+        key5: {r: 0, g: 0, b: 0, a: 0}
+        key6: {r: 0, g: 0, b: 0, a: 0}
+        key7: {r: 0, g: 0, b: 0, a: 0}
+        ctime0: 0
+        ctime1: 9445
+        ctime2: 19468
+        ctime3: 65535
+        ctime4: 0
+        ctime5: 0
+        ctime6: 0
+        ctime7: 0
+        atime0: 0
+        atime1: 65535
+        atime2: 0
+        atime3: 0
+        atime4: 0
+        atime5: 0
+        atime6: 0
+        atime7: 0
+        m_Mode: 0
+        m_NumColorKeys: 4
+        m_NumAlphaKeys: 2
+      TreeScaleVariation:
+        Min: 0.3
+        Max: 1
+      TreeHeightVariation:
+        Min: 1
+        Max: 1
+    TextureLayerWeights:
+    - 1
+    - 0
+    - 0
+    - 0
+    SlopeCutoff:
+      From: -3
+      To: 45
+      Smoothing: 3
+    Density: 0.012
+    RandomVariation: 0.913
+    MinWeight: 0.99
+    MaskTexture: {fileID: 2800000, guid: d15e0a7fb91ef5e4997370ca13ee7160, type: 3}
+    MaskTextureScale: 0.8
+    MaskChannel: 2
+    DodgeUpperLayers: 0
+    SkipRepaint: 0
+  - Name: Diff_Grass02
+    PaintLayer:
+      Type: 2
+      DetailIndex: 2
+      TreeColorVariation:
+        serializedVersion: 2
+        key0: {r: 1, g: 1, b: 1, a: 1}
+        key1: {r: 1, g: 0.95686275, b: 0.68235296, a: 1}
+        key2: {r: 1, g: 1, b: 1, a: 0}
+        key3: {r: 1, g: 1, b: 1, a: 0}
+        key4: {r: 0, g: 0, b: 0, a: 0}
+        key5: {r: 0, g: 0, b: 0, a: 0}
+        key6: {r: 0, g: 0, b: 0, a: 0}
+        key7: {r: 0, g: 0, b: 0, a: 0}
+        ctime0: 0
+        ctime1: 9445
+        ctime2: 19468
+        ctime3: 65535
+        ctime4: 0
+        ctime5: 0
+        ctime6: 0
+        ctime7: 0
+        atime0: 0
+        atime1: 65535
+        atime2: 0
+        atime3: 0
+        atime4: 0
+        atime5: 0
+        atime6: 0
+        atime7: 0
+        m_Mode: 0
+        m_NumColorKeys: 4
+        m_NumAlphaKeys: 2
+      TreeScaleVariation:
+        Min: 0.3
+        Max: 1
+      TreeHeightVariation:
+        Min: 1
+        Max: 1
+    TextureLayerWeights:
+    - 1
+    - 0
+    - 0
+    - 0
+    SlopeCutoff:
+      From: -3
+      To: 45
+      Smoothing: 3
+    Density: 0.0015
+    RandomVariation: 0.913
+    MinWeight: 0.99
+    MaskTexture: {fileID: 2800000, guid: d15e0a7fb91ef5e4997370ca13ee7160, type: 3}
+    MaskTextureScale: 0.8
+    MaskChannel: 2
+    DodgeUpperLayers: 0
+    SkipRepaint: 0
+  - Name: Diff_Grass03Big
+    PaintLayer:
+      Type: 2
+      DetailIndex: 19
+      TreeColorVariation:
+        serializedVersion: 2
+        key0: {r: 1, g: 1, b: 1, a: 1}
+        key1: {r: 1, g: 0.95686275, b: 0.68235296, a: 1}
+        key2: {r: 1, g: 1, b: 1, a: 0}
+        key3: {r: 1, g: 1, b: 1, a: 0}
+        key4: {r: 0, g: 0, b: 0, a: 0}
+        key5: {r: 0, g: 0, b: 0, a: 0}
+        key6: {r: 0, g: 0, b: 0, a: 0}
+        key7: {r: 0, g: 0, b: 0, a: 0}
+        ctime0: 0
+        ctime1: 9445
+        ctime2: 19468
+        ctime3: 65535
+        ctime4: 0
+        ctime5: 0
+        ctime6: 0
+        ctime7: 0
+        atime0: 0
+        atime1: 65535
+        atime2: 0
+        atime3: 0
+        atime4: 0
+        atime5: 0
+        atime6: 0
+        atime7: 0
+        m_Mode: 0
+        m_NumColorKeys: 4
+        m_NumAlphaKeys: 2
+      TreeScaleVariation:
+        Min: 0.3
+        Max: 1
+      TreeHeightVariation:
+        Min: 1
+        Max: 1
+    TextureLayerWeights:
+    - 1
+    - 0
+    - 0
+    - 0
+    SlopeCutoff:
+      From: -3
+      To: 45
+      Smoothing: 3
+    Density: 0.0015
+    RandomVariation: 0.913
+    MinWeight: 0.99
+    MaskTexture: {fileID: 2800000, guid: d15e0a7fb91ef5e4997370ca13ee7160, type: 3}
+    MaskTextureScale: 0.8
+    MaskChannel: 2
+    DodgeUpperLayers: 0
+    SkipRepaint: 0
+  - Name: Diff_Grass04
+    PaintLayer:
+      Type: 2
+      DetailIndex: 4
+      TreeColorVariation:
+        serializedVersion: 2
+        key0: {r: 1, g: 1, b: 1, a: 1}
+        key1: {r: 1, g: 0.95686275, b: 0.68235296, a: 1}
+        key2: {r: 1, g: 1, b: 1, a: 0}
+        key3: {r: 1, g: 1, b: 1, a: 0}
+        key4: {r: 0, g: 0, b: 0, a: 0}
+        key5: {r: 0, g: 0, b: 0, a: 0}
+        key6: {r: 0, g: 0, b: 0, a: 0}
+        key7: {r: 0, g: 0, b: 0, a: 0}
+        ctime0: 0
+        ctime1: 9445
+        ctime2: 19468
+        ctime3: 65535
+        ctime4: 0
+        ctime5: 0
+        ctime6: 0
+        ctime7: 0
+        atime0: 0
+        atime1: 65535
+        atime2: 0
+        atime3: 0
+        atime4: 0
+        atime5: 0
+        atime6: 0
+        atime7: 0
+        m_Mode: 0
+        m_NumColorKeys: 4
+        m_NumAlphaKeys: 2
+      TreeScaleVariation:
+        Min: 0.3
+        Max: 1
+      TreeHeightVariation:
+        Min: 1
+        Max: 1
+    TextureLayerWeights:
+    - 1
+    - 0
+    - 0
+    - 0
+    SlopeCutoff:
+      From: -3
+      To: 45
+      Smoothing: 3
+    Density: 0.0032
+    RandomVariation: 0.913
+    MinWeight: 0.99
+    MaskTexture: {fileID: 2800000, guid: d15e0a7fb91ef5e4997370ca13ee7160, type: 3}
+    MaskTextureScale: 0.8
+    MaskChannel: 2
+    DodgeUpperLayers: 0
+    SkipRepaint: 0
+  - Name: Diff_Grass00Big
+    PaintLayer:
+      Type: 2
+      DetailIndex: 10
+      TreeColorVariation:
+        serializedVersion: 2
+        key0: {r: 1, g: 1, b: 1, a: 1}
+        key1: {r: 1, g: 0.95686275, b: 0.68235296, a: 1}
+        key2: {r: 1, g: 1, b: 1, a: 0}
+        key3: {r: 1, g: 1, b: 1, a: 0}
+        key4: {r: 0, g: 0, b: 0, a: 0}
+        key5: {r: 0, g: 0, b: 0, a: 0}
+        key6: {r: 0, g: 0, b: 0, a: 0}
+        key7: {r: 0, g: 0, b: 0, a: 0}
+        ctime0: 0
+        ctime1: 9445
+        ctime2: 19468
+        ctime3: 65535
+        ctime4: 0
+        ctime5: 0
+        ctime6: 0
+        ctime7: 0
+        atime0: 0
+        atime1: 65535
+        atime2: 0
+        atime3: 0
+        atime4: 0
+        atime5: 0
+        atime6: 0
+        atime7: 0
+        m_Mode: 0
+        m_NumColorKeys: 4
+        m_NumAlphaKeys: 2
+      TreeScaleVariation:
+        Min: 0.3
+        Max: 1
+      TreeHeightVariation:
+        Min: 1
+        Max: 1
+    TextureLayerWeights:
+    - 1
+    - 0
+    - 0
+    - 0
+    SlopeCutoff:
+      From: -3
+      To: 45
+      Smoothing: 3
+    Density: 0.0015
+    RandomVariation: 0.913
+    MinWeight: 0.99
+    MaskTexture: {fileID: 2800000, guid: d15e0a7fb91ef5e4997370ca13ee7160, type: 3}
+    MaskTextureScale: 0.8
+    MaskChannel: 2
+    DodgeUpperLayers: 0
+    SkipRepaint: 0
+  - Name: Diff_Grass03
+    PaintLayer:
+      Type: 2
+      DetailIndex: 3
+      TreeColorVariation:
+        serializedVersion: 2
+        key0: {r: 1, g: 1, b: 1, a: 1}
+        key1: {r: 1, g: 0.95686275, b: 0.68235296, a: 1}
+        key2: {r: 1, g: 1, b: 1, a: 0}
+        key3: {r: 1, g: 1, b: 1, a: 0}
+        key4: {r: 0, g: 0, b: 0, a: 0}
+        key5: {r: 0, g: 0, b: 0, a: 0}
+        key6: {r: 0, g: 0, b: 0, a: 0}
+        key7: {r: 0, g: 0, b: 0, a: 0}
+        ctime0: 0
+        ctime1: 9445
+        ctime2: 19468
+        ctime3: 65535
+        ctime4: 0
+        ctime5: 0
+        ctime6: 0
+        ctime7: 0
+        atime0: 0
+        atime1: 65535
+        atime2: 0
+        atime3: 0
+        atime4: 0
+        atime5: 0
+        atime6: 0
+        atime7: 0
+        m_Mode: 0
+        m_NumColorKeys: 4
+        m_NumAlphaKeys: 2
+      TreeScaleVariation:
+        Min: 0.3
+        Max: 1
+      TreeHeightVariation:
+        Min: 1
+        Max: 1
+    TextureLayerWeights:
+    - 1
+    - 0
+    - 0
+    - 0
+    SlopeCutoff:
+      From: -3
+      To: 45
+      Smoothing: 3
+    Density: 0.032
+    RandomVariation: 0.913
+    MinWeight: 0.99
+    MaskTexture: {fileID: 2800000, guid: d15e0a7fb91ef5e4997370ca13ee7160, type: 3}
+    MaskTextureScale: 0.8
+    MaskChannel: 2
+    DodgeUpperLayers: 0
+    SkipRepaint: 0
+  - Name: Diff_Grass00Big
+    PaintLayer:
+      Type: 2
+      DetailIndex: 10
+      TreeColorVariation:
+        serializedVersion: 2
+        key0: {r: 1, g: 1, b: 1, a: 1}
+        key1: {r: 1, g: 0.95686275, b: 0.68235296, a: 1}
+        key2: {r: 1, g: 1, b: 1, a: 0}
+        key3: {r: 1, g: 1, b: 1, a: 0}
+        key4: {r: 0, g: 0, b: 0, a: 0}
+        key5: {r: 0, g: 0, b: 0, a: 0}
+        key6: {r: 0, g: 0, b: 0, a: 0}
+        key7: {r: 0, g: 0, b: 0, a: 0}
+        ctime0: 0
+        ctime1: 9445
+        ctime2: 19468
+        ctime3: 65535
+        ctime4: 0
+        ctime5: 0
+        ctime6: 0
+        ctime7: 0
+        atime0: 0
+        atime1: 65535
+        atime2: 0
+        atime3: 0
+        atime4: 0
+        atime5: 0
+        atime6: 0
+        atime7: 0
+        m_Mode: 0
+        m_NumColorKeys: 4
+        m_NumAlphaKeys: 2
+      TreeScaleVariation:
+        Min: 0.3
+        Max: 1
+      TreeHeightVariation:
+        Min: 1
+        Max: 1
+    TextureLayerWeights:
+    - 1
+    - 0
+    - 0
+    - 0
+    SlopeCutoff:
+      From: -3
+      To: 45
+      Smoothing: 3
+    Density: 0.003
+    RandomVariation: 0.913
+    MinWeight: 0.99
+    MaskTexture: {fileID: 2800000, guid: d15e0a7fb91ef5e4997370ca13ee7160, type: 3}
+    MaskTextureScale: 0.8
+    MaskChannel: 2
+    DodgeUpperLayers: 0
+    SkipRepaint: 0
+  - Name: Grass00Additional
+    PaintLayer:
+      Type: 2
+      DetailIndex: 0
+      TreeColorVariation:
+        serializedVersion: 2
+        key0: {r: 1, g: 1, b: 1, a: 1}
+        key1: {r: 1, g: 0.95686275, b: 0.68235296, a: 1}
+        key2: {r: 1, g: 1, b: 1, a: 0}
+        key3: {r: 1, g: 1, b: 1, a: 0}
+        key4: {r: 0, g: 0, b: 0, a: 0}
+        key5: {r: 0, g: 0, b: 0, a: 0}
+        key6: {r: 0, g: 0, b: 0, a: 0}
+        key7: {r: 0, g: 0, b: 0, a: 0}
+        ctime0: 0
+        ctime1: 9445
+        ctime2: 19468
+        ctime3: 65535
+        ctime4: 0
+        ctime5: 0
+        ctime6: 0
+        ctime7: 0
+        atime0: 0
+        atime1: 65535
+        atime2: 0
+        atime3: 0
+        atime4: 0
+        atime5: 0
+        atime6: 0
+        atime7: 0
+        m_Mode: 0
+        m_NumColorKeys: 4
+        m_NumAlphaKeys: 2
+      TreeScaleVariation:
+        Min: 0.3
+        Max: 1
+      TreeHeightVariation:
+        Min: 1
+        Max: 1
+    TextureLayerWeights:
+    - 1
+    - 0
+    - 0
+    - 0
+    SlopeCutoff:
+      From: -3
+      To: 45
+      Smoothing: 3
+    Density: 0.15
+    RandomVariation: 0.913
+    MinWeight: 0.99
+    MaskTexture: {fileID: 2800000, guid: d15e0a7fb91ef5e4997370ca13ee7160, type: 3}
+    MaskTextureScale: 0.8
+    MaskChannel: 4
+    DodgeUpperLayers: 0
+    SkipRepaint: 0
+  - Name: Grass01Additional
+    PaintLayer:
+      Type: 2
+      DetailIndex: 1
+      TreeColorVariation:
+        serializedVersion: 2
+        key0: {r: 1, g: 1, b: 1, a: 1}
+        key1: {r: 1, g: 0.95686275, b: 0.68235296, a: 1}
+        key2: {r: 1, g: 1, b: 1, a: 0}
+        key3: {r: 1, g: 1, b: 1, a: 0}
+        key4: {r: 0, g: 0, b: 0, a: 0}
+        key5: {r: 0, g: 0, b: 0, a: 0}
+        key6: {r: 0, g: 0, b: 0, a: 0}
+        key7: {r: 0, g: 0, b: 0, a: 0}
+        ctime0: 0
+        ctime1: 9445
+        ctime2: 19468
+        ctime3: 65535
+        ctime4: 0
+        ctime5: 0
+        ctime6: 0
+        ctime7: 0
+        atime0: 0
+        atime1: 65535
+        atime2: 0
+        atime3: 0
+        atime4: 0
+        atime5: 0
+        atime6: 0
+        atime7: 0
+        m_Mode: 0
+        m_NumColorKeys: 4
+        m_NumAlphaKeys: 2
+      TreeScaleVariation:
+        Min: 0.3
+        Max: 1
+      TreeHeightVariation:
+        Min: 1
+        Max: 1
+    TextureLayerWeights:
+    - 1
+    - 0
+    - 0
+    - 0
+    SlopeCutoff:
+      From: -3
+      To: 45
+      Smoothing: 3
+    Density: 0.21
+    RandomVariation: 0.913
+    MinWeight: 0.99
+    MaskTexture: {fileID: 2800000, guid: d15e0a7fb91ef5e4997370ca13ee7160, type: 3}
+    MaskTextureScale: 0.8
+    MaskChannel: 4
+    DodgeUpperLayers: 0
+    SkipRepaint: 0
+  - Name: Grass03Additional
+    PaintLayer:
+      Type: 2
+      DetailIndex: 3
+      TreeColorVariation:
+        serializedVersion: 2
+        key0: {r: 1, g: 1, b: 1, a: 1}
+        key1: {r: 1, g: 0.95686275, b: 0.68235296, a: 1}
+        key2: {r: 1, g: 1, b: 1, a: 0}
+        key3: {r: 1, g: 1, b: 1, a: 0}
+        key4: {r: 0, g: 0, b: 0, a: 0}
+        key5: {r: 0, g: 0, b: 0, a: 0}
+        key6: {r: 0, g: 0, b: 0, a: 0}
+        key7: {r: 0, g: 0, b: 0, a: 0}
+        ctime0: 0
+        ctime1: 9445
+        ctime2: 19468
+        ctime3: 65535
+        ctime4: 0
+        ctime5: 0
+        ctime6: 0
+        ctime7: 0
+        atime0: 0
+        atime1: 65535
+        atime2: 0
+        atime3: 0
+        atime4: 0
+        atime5: 0
+        atime6: 0
+        atime7: 0
+        m_Mode: 0
+        m_NumColorKeys: 4
+        m_NumAlphaKeys: 2
+      TreeScaleVariation:
+        Min: 0.3
+        Max: 1
+      TreeHeightVariation:
+        Min: 1
+        Max: 1
+    TextureLayerWeights:
+    - 1
+    - 0
+    - 0
+    - 0
+    SlopeCutoff:
+      From: -3
+      To: 45
+      Smoothing: 3
+    Density: 0.0015
+    RandomVariation: 0.913
+    MinWeight: 0.99
+    MaskTexture: {fileID: 2800000, guid: d15e0a7fb91ef5e4997370ca13ee7160, type: 3}
+    MaskTextureScale: 0.8
+    MaskChannel: 4
+    DodgeUpperLayers: 0
+    SkipRepaint: 0
+  - Name: Grass01_Add
+    PaintLayer:
+      Type: 2
+      DetailIndex: 1
+      TreeColorVariation:
+        serializedVersion: 2
+        key0: {r: 1, g: 1, b: 1, a: 1}
+        key1: {r: 1, g: 0.95686275, b: 0.68235296, a: 1}
+        key2: {r: 1, g: 1, b: 1, a: 0}
+        key3: {r: 1, g: 1, b: 1, a: 0}
+        key4: {r: 0, g: 0, b: 0, a: 0}
+        key5: {r: 0, g: 0, b: 0, a: 0}
+        key6: {r: 0, g: 0, b: 0, a: 0}
+        key7: {r: 0, g: 0, b: 0, a: 0}
+        ctime0: 0
+        ctime1: 9445
+        ctime2: 19468
+        ctime3: 65535
+        ctime4: 0
+        ctime5: 0
+        ctime6: 0
+        ctime7: 0
+        atime0: 0
+        atime1: 65535
+        atime2: 0
+        atime3: 0
+        atime4: 0
+        atime5: 0
+        atime6: 0
+        atime7: 0
+        m_Mode: 0
+        m_NumColorKeys: 4
+        m_NumAlphaKeys: 2
+      TreeScaleVariation:
+        Min: 0.3
+        Max: 1
+      TreeHeightVariation:
+        Min: 1
+        Max: 1
+    TextureLayerWeights:
+    - 1
+    - 0
+    - 0
+    - 0
+    SlopeCutoff:
+      From: -3
+      To: 45
+      Smoothing: 3
+    Density: 0.1
+    RandomVariation: 0.913
+    MinWeight: 0.9
+    MaskTexture: {fileID: 2800000, guid: d15e0a7fb91ef5e4997370ca13ee7160, type: 3}
+    MaskTextureScale: 0.8
+    MaskChannel: 4
+    DodgeUpperLayers: 1
+    SkipRepaint: 0
+  - Name: Grass01_Add
+    PaintLayer:
+      Type: 2
+      DetailIndex: 1
+      TreeColorVariation:
+        serializedVersion: 2
+        key0: {r: 1, g: 1, b: 1, a: 1}
+        key1: {r: 1, g: 0.95686275, b: 0.68235296, a: 1}
+        key2: {r: 1, g: 1, b: 1, a: 0}
+        key3: {r: 1, g: 1, b: 1, a: 0}
+        key4: {r: 0, g: 0, b: 0, a: 0}
+        key5: {r: 0, g: 0, b: 0, a: 0}
+        key6: {r: 0, g: 0, b: 0, a: 0}
+        key7: {r: 0, g: 0, b: 0, a: 0}
+        ctime0: 0
+        ctime1: 9445
+        ctime2: 19468
+        ctime3: 65535
+        ctime4: 0
+        ctime5: 0
+        ctime6: 0
+        ctime7: 0
+        atime0: 0
+        atime1: 65535
+        atime2: 0
+        atime3: 0
+        atime4: 0
+        atime5: 0
+        atime6: 0
+        atime7: 0
+        m_Mode: 0
+        m_NumColorKeys: 4
+        m_NumAlphaKeys: 2
+      TreeScaleVariation:
+        Min: 0.3
+        Max: 1
+      TreeHeightVariation:
+        Min: 1
+        Max: 1
+    TextureLayerWeights:
+    - 1
+    - 0
+    - 0
+    - 0
+    SlopeCutoff:
+      From: -3
+      To: 45
+      Smoothing: 3
+    Density: 0.1
+    RandomVariation: 0.913
+    MinWeight: 0.9
+    MaskTexture: {fileID: 2800000, guid: d15e0a7fb91ef5e4997370ca13ee7160, type: 3}
+    MaskTextureScale: 0.8
+    MaskChannel: 4
+    DodgeUpperLayers: 1
+    SkipRepaint: 0
+  - Name: Grass00_Filler
+    PaintLayer:
+      Type: 2
+      DetailIndex: 0
+      TreeColorVariation:
+        serializedVersion: 2
+        key0: {r: 1, g: 1, b: 1, a: 1}
+        key1: {r: 1, g: 0.95686275, b: 0.68235296, a: 1}
+        key2: {r: 1, g: 1, b: 1, a: 0}
+        key3: {r: 1, g: 1, b: 1, a: 0}
+        key4: {r: 0, g: 0, b: 0, a: 0}
+        key5: {r: 0, g: 0, b: 0, a: 0}
+        key6: {r: 0, g: 0, b: 0, a: 0}
+        key7: {r: 0, g: 0, b: 0, a: 0}
+        ctime0: 0
+        ctime1: 9445
+        ctime2: 19468
+        ctime3: 65535
+        ctime4: 0
+        ctime5: 0
+        ctime6: 0
+        ctime7: 0
+        atime0: 0
+        atime1: 65535
+        atime2: 0
+        atime3: 0
+        atime4: 0
+        atime5: 0
+        atime6: 0
+        atime7: 0
+        m_Mode: 0
+        m_NumColorKeys: 4
+        m_NumAlphaKeys: 2
+      TreeScaleVariation:
+        Min: 0.3
+        Max: 1
+      TreeHeightVariation:
+        Min: 1
+        Max: 1
+    TextureLayerWeights:
+    - 1
+    - 0
+    - 0
+    - 0
+    SlopeCutoff:
+      From: -3
+      To: 45
+      Smoothing: 3
+    Density: 0.007
+    RandomVariation: 0.913
+    MinWeight: 0.9
+    MaskTexture: {fileID: 2800000, guid: d15e0a7fb91ef5e4997370ca13ee7160, type: 3}
+    MaskTextureScale: 0.8
+    MaskChannel: 4
+    DodgeUpperLayers: 1
+    SkipRepaint: 0
+  - Name: Grass04-1
+    PaintLayer:
+      Type: 2
+      DetailIndex: 0
+      TreeColorVariation:
+        serializedVersion: 2
+        key0: {r: 1, g: 1, b: 1, a: 1}
+        key1: {r: 1, g: 0.95686275, b: 0.68235296, a: 1}
+        key2: {r: 1, g: 1, b: 1, a: 0}
+        key3: {r: 1, g: 1, b: 1, a: 0}
+        key4: {r: 0, g: 0, b: 0, a: 0}
+        key5: {r: 0, g: 0, b: 0, a: 0}
+        key6: {r: 0, g: 0, b: 0, a: 0}
+        key7: {r: 0, g: 0, b: 0, a: 0}
+        ctime0: 0
+        ctime1: 9445
+        ctime2: 19468
+        ctime3: 65535
+        ctime4: 0
+        ctime5: 0
+        ctime6: 0
+        ctime7: 0
+        atime0: 0
+        atime1: 65535
+        atime2: 0
+        atime3: 0
+        atime4: 0
+        atime5: 0
+        atime6: 0
+        atime7: 0
+        m_Mode: 0
+        m_NumColorKeys: 4
+        m_NumAlphaKeys: 2
+      TreeScaleVariation:
+        Min: 0.3
+        Max: 1
+      TreeHeightVariation:
+        Min: 1
+        Max: 1
+    TextureLayerWeights:
+    - 1
+    - 0
+    - 0
+    - 0
+    SlopeCutoff:
+      From: -3
+      To: 45
+      Smoothing: 3
+    Density: 1.2
+    RandomVariation: 0.913
+    MinWeight: 0.9
+    MaskTexture: {fileID: 2800000, guid: d15e0a7fb91ef5e4997370ca13ee7160, type: 3}
+    MaskTextureScale: 0.8
+    MaskChannel: 1
+    DodgeUpperLayers: 0
+    SkipRepaint: 0
+  - Name: Bush01_Small-1
+    PaintLayer:
+      Type: 2
+      DetailIndex: 29
+      TreeColorVariation:
+        serializedVersion: 2
+        key0: {r: 1, g: 1, b: 1, a: 1}
+        key1: {r: 1, g: 0.95686275, b: 0.68235296, a: 1}
+        key2: {r: 1, g: 1, b: 1, a: 0}
+        key3: {r: 1, g: 1, b: 1, a: 0}
+        key4: {r: 0, g: 0, b: 0, a: 0}
+        key5: {r: 0, g: 0, b: 0, a: 0}
+        key6: {r: 0, g: 0, b: 0, a: 0}
+        key7: {r: 0, g: 0, b: 0, a: 0}
+        ctime0: 0
+        ctime1: 9445
+        ctime2: 19468
+        ctime3: 65535
+        ctime4: 0
+        ctime5: 0
+        ctime6: 0
+        ctime7: 0
+        atime0: 0
+        atime1: 65535
+        atime2: 0
+        atime3: 0
+        atime4: 0
+        atime5: 0
+        atime6: 0
+        atime7: 0
+        m_Mode: 0
+        m_NumColorKeys: 4
+        m_NumAlphaKeys: 2
+      TreeScaleVariation:
+        Min: 0.3
+        Max: 1
+      TreeHeightVariation:
+        Min: 1
+        Max: 1
+    TextureLayerWeights:
+    - 1
+    - 0
+    - 0
+    - 0
+    SlopeCutoff:
+      From: -3
+      To: 45
+      Smoothing: 3
+    Density: 2.2
+    RandomVariation: 0.81
+    MinWeight: 0.9
+    MaskTexture: {fileID: 2800000, guid: d15e0a7fb91ef5e4997370ca13ee7160, type: 3}
+    MaskTextureScale: 0.8
+    MaskChannel: 1
+    DodgeUpperLayers: 0
+    SkipRepaint: 0
+  DataHolder: {fileID: 114488431582833692, guid: 6588f3fbe6e3ee54fa3a6fdae9aba932,
+    type: 2}
+  GlobalDensityAdjust: 1
+--- !u!114 &114900639226234256
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1199835787416614}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b66d3a77b1ebb26428920ff8ea9e6eb4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  WindStrength: 1
+  WaveStrength: 1
+  WaveFrequency: 0.5
+--- !u!114 &114971594143541874
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1199835787416614}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42f8d6cc422e1954a893b4f459c5aa20, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  IconAuto: {fileID: 2800000, guid: 524b82a1a55d14e4b94af0977e8e5238, type: 3}
+  Shader: 2
+  Layers:
+  - Name: Grass
+    ColorTexture: {fileID: 2800000, guid: 8d6a348e3658456429fdf2377c904c4f, type: 3}
+    NormalsTexture: {fileID: 2800000, guid: 619b9391551a1844e8d27b8294d96424, type: 3}
+    SMOTexture: {fileID: 0}
+    Scale: 57.2
+    ScaleFar: 24.5
+    ScaleMixStart: 60
+    ScaleMixEnd: 300
+    UseAuto: 1
+    Angle:
+      From: -30
+      To: 30
+      Smoothing: 14.1
+    Height:
+      From: -1000
+      To: 600
+      Smoothing: 0
+    TextureBleed: 0.188
+    DisplacementScale: 0
+    Roughness: 1
+    Specular: {r: 0, g: 0, b: 0, a: 0}
+    UseTriplanarProjection: 0
+    OverlayStrength: 0.84
+    OverlayScale: 0.7
+  - Name: Pebbles
+    ColorTexture: {fileID: 2800000, guid: ecf52c93906aaa6409f96373c6e7ba7c, type: 3}
+    NormalsTexture: {fileID: 2800000, guid: 837d562cf4d574d40aa1c8b9d665b999, type: 3}
+    SMOTexture: {fileID: 2800000, guid: 7b639b2d9353e7a47bac5ddca33ff7da, type: 3}
+    Scale: 37.8
+    ScaleFar: 20
+    ScaleMixStart: 60
+    ScaleMixEnd: 300
+    UseAuto: 1
+    Angle:
+      From: 11.6
+      To: 34.7
+      Smoothing: 8.9
+    Height:
+      From: -1000
+      To: 600
+      Smoothing: 0
+    TextureBleed: 0.129
+    DisplacementScale: 0.208
+    Roughness: 0.2
+    Specular: {r: 0.60294116, g: 0.60294116, b: 0.60294116, a: 0}
+    UseTriplanarProjection: 0
+    OverlayStrength: 0.048
+    OverlayScale: 0.7
+  - Name: Cliffs
+    ColorTexture: {fileID: 2800000, guid: ee8431fad656bc246950a4d2e9994cd9, type: 3}
+    NormalsTexture: {fileID: 2800000, guid: 34ca1f0353361824d8b30681723dd51d, type: 3}
+    SMOTexture: {fileID: 2800000, guid: 322bec5d8e95d9649b01ecc1ab504af7, type: 3}
+    Scale: 20
+    ScaleFar: 4
+    ScaleMixStart: 60
+    ScaleMixEnd: 300
+    UseAuto: 1
+    Angle:
+      From: 26
+      To: 121.29
+      Smoothing: 28.6
+    Height:
+      From: -1000
+      To: 600
+      Smoothing: 1
+    TextureBleed: 0.1
+    DisplacementScale: 0.415
+    Roughness: 0.52
+    Specular: {r: 0.5, g: 0.5, b: 0.5, a: 0}
+    UseTriplanarProjection: 1
+    OverlayStrength: 0
+    OverlayScale: 1
+  - Name: Road_D
+    ColorTexture: {fileID: 2800000, guid: 7986012f35ccdf644a38fe6a8e729f84, type: 3}
+    NormalsTexture: {fileID: 2800000, guid: 81c9d1d72fdc7a041ae3793e89943b34, type: 3}
+    SMOTexture: {fileID: 2800000, guid: 6ed05210016545c4882eb052a03de127, type: 3}
+    Scale: 51.01
+    ScaleFar: 4
+    ScaleMixStart: 60
+    ScaleMixEnd: 300
+    UseAuto: 0
+    Angle:
+      From: -30
+      To: 60
+      Smoothing: 0
+    Height:
+      From: -1
+      To: 3
+      Smoothing: 0
+    TextureBleed: 1
+    DisplacementScale: 0.028
+    Roughness: 0.09
+    Specular: {r: 1, g: 1, b: 1, a: 0}
+    UseTriplanarProjection: 0
+    OverlayStrength: 0
+    OverlayScale: 1
+  ColorOverlay: {fileID: 2800000, guid: a21e7548a1cf41a4b8ff932ed4d9f88d, type: 3}
+  OverlayScaleMultiplier: 1
+  Displacement:
+    RangeMin: 40
+    RangeMax: 60
+    Tesselation: 3
+    FalloffPower: 0.78
+    GlobalScale: 3.16
+  ColorPaintTexture: {fileID: 2800000, guid: a2c113c84f8a4994eb083357923b440e, type: 3}
+  AutoDebugMode: 0
+  GlobalScale: 1
+--- !u!154 &154063759895440366
+TerrainCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1192501253533828}
+  m_Material: {fileID: 0}
+  m_Enabled: 1
+  m_TerrainData: {fileID: 15600000, guid: bc743c433f923244fbb27a1f856963d6, type: 2}
+  m_EnableTreeColliders: 1
+--- !u!154 &154155384853913620
+TerrainCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1199835787416614}
+  m_Material: {fileID: 0}
+  m_Enabled: 1
+  m_TerrainData: {fileID: 15600000, guid: e5eab02253b586b4b85a342dcac96e67, type: 2}
+  m_EnableTreeColliders: 1
+--- !u!154 &154368063215950098
+TerrainCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1984757256758664}
+  m_Material: {fileID: 0}
+  m_Enabled: 1
+  m_TerrainData: {fileID: 15600000, guid: 6588f3fbe6e3ee54fa3a6fdae9aba932, type: 2}
+  m_EnableTreeColliders: 1
+--- !u!154 &154447255484484662
+TerrainCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1338990464092986}
+  m_Material: {fileID: 0}
+  m_Enabled: 1
+  m_TerrainData: {fileID: 15600000, guid: 340db7fbab053134899d5e97c57f9089, type: 2}
+  m_EnableTreeColliders: 1
+--- !u!154 &154477337250653674
+TerrainCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1143484980322872}
+  m_Material: {fileID: 0}
+  m_Enabled: 1
+  m_TerrainData: {fileID: 15600000, guid: 1551019ef9a09334b98084a871f320cb, type: 2}
+  m_EnableTreeColliders: 1
+--- !u!154 &154575233811330276
+TerrainCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1293024173166266}
+  m_Material: {fileID: 0}
+  m_Enabled: 1
+  m_TerrainData: {fileID: 15600000, guid: 30a80774e460a0b44a6e5ddfd1209351, type: 2}
+  m_EnableTreeColliders: 1
+--- !u!154 &154633112955046266
+TerrainCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1694116256425782}
+  m_Material: {fileID: 0}
+  m_Enabled: 1
+  m_TerrainData: {fileID: 15600000, guid: a5b929ddb018ca6489e5de1149124edf, type: 2}
+  m_EnableTreeColliders: 1
+--- !u!154 &154648097559105364
+TerrainCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1876745875045910}
+  m_Material: {fileID: 0}
+  m_Enabled: 1
+  m_TerrainData: {fileID: 15600000, guid: a464fd7b3c314824092533928738f503, type: 2}
+  m_EnableTreeColliders: 1
+--- !u!154 &154716138697097032
+TerrainCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1292670933733282}
+  m_Material: {fileID: 0}
+  m_Enabled: 1
+  m_TerrainData: {fileID: 15600000, guid: b213df65baa712245b9d932da68fb970, type: 2}
+  m_EnableTreeColliders: 1
+--- !u!154 &154859939064589280
+TerrainCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1102510695793318}
+  m_Material: {fileID: 0}
+  m_Enabled: 1
+  m_TerrainData: {fileID: 15600000, guid: 4c4609d7f281bee45bb5f63678fe7aee, type: 2}
+  m_EnableTreeColliders: 1
+--- !u!154 &154932764664353784
+TerrainCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1295748635067054}
+  m_Material: {fileID: 0}
+  m_Enabled: 1
+  m_TerrainData: {fileID: 15600000, guid: 125418d413b3b204bbe6fde32765bd91, type: 2}
+  m_EnableTreeColliders: 1
+--- !u!154 &154933504753616174
+TerrainCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1594668384335240}
+  m_Material: {fileID: 0}
+  m_Enabled: 1
+  m_TerrainData: {fileID: 15600000, guid: e0e539e445d480c4e8e11409b1aed42c, type: 2}
+  m_EnableTreeColliders: 1
+--- !u!218 &218138900919723010
+Terrain:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1293024173166266}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_TerrainData: {fileID: 15600000, guid: 30a80774e460a0b44a6e5ddfd1209351, type: 2}
+  m_TreeDistance: 2000
+  m_TreeBillboardDistance: 50
+  m_TreeCrossFadeLength: 5
+  m_TreeMaximumFullLODCount: 50
+  m_DetailObjectDistance: 80
+  m_DetailObjectDensity: 1
+  m_HeightmapPixelError: 5
+  m_SplatMapDistance: 1000
+  m_HeightmapMaximumLOD: 0
+  m_CastShadows: 1
+  m_DrawHeightmap: 1
+  m_DrawTreesAndFoliage: 1
+  m_ReflectionProbeUsage: 1
+  m_MaterialType: 3
+  m_LegacySpecular:
+    serializedVersion: 2
+    rgba: 4286545791
+  m_LegacyShininess: 0.078125
+  m_MaterialTemplate: {fileID: 0}
+  m_BakeLightProbesForTrees: 1
+  m_ScaleInLightmap: 0.0512
+  m_LightmapParameters: {fileID: 15203, guid: 0000000000000000f000000000000000, type: 0}
+--- !u!218 &218309707523618292
+Terrain:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1984757256758664}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_TerrainData: {fileID: 15600000, guid: 6588f3fbe6e3ee54fa3a6fdae9aba932, type: 2}
+  m_TreeDistance: 2000
+  m_TreeBillboardDistance: 50
+  m_TreeCrossFadeLength: 5
+  m_TreeMaximumFullLODCount: 50
+  m_DetailObjectDistance: 80
+  m_DetailObjectDensity: 1
+  m_HeightmapPixelError: 5
+  m_SplatMapDistance: 1000
+  m_HeightmapMaximumLOD: 0
+  m_CastShadows: 1
+  m_DrawHeightmap: 1
+  m_DrawTreesAndFoliage: 1
+  m_ReflectionProbeUsage: 1
+  m_MaterialType: 3
+  m_LegacySpecular:
+    serializedVersion: 2
+    rgba: 4286545791
+  m_LegacyShininess: 0.078125
+  m_MaterialTemplate: {fileID: 0}
+  m_BakeLightProbesForTrees: 1
+  m_ScaleInLightmap: 0.0512
+  m_LightmapParameters: {fileID: 15203, guid: 0000000000000000f000000000000000, type: 0}
+--- !u!218 &218314670051260664
+Terrain:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1199835787416614}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_TerrainData: {fileID: 15600000, guid: e5eab02253b586b4b85a342dcac96e67, type: 2}
+  m_TreeDistance: 2000
+  m_TreeBillboardDistance: 50
+  m_TreeCrossFadeLength: 5
+  m_TreeMaximumFullLODCount: 50
+  m_DetailObjectDistance: 80
+  m_DetailObjectDensity: 1
+  m_HeightmapPixelError: 5
+  m_SplatMapDistance: 1000
+  m_HeightmapMaximumLOD: 0
+  m_CastShadows: 1
+  m_DrawHeightmap: 1
+  m_DrawTreesAndFoliage: 1
+  m_ReflectionProbeUsage: 1
+  m_MaterialType: 3
+  m_LegacySpecular:
+    serializedVersion: 2
+    rgba: 4286545791
+  m_LegacyShininess: 0.078125
+  m_MaterialTemplate: {fileID: 0}
+  m_BakeLightProbesForTrees: 1
+  m_ScaleInLightmap: 0.0512
+  m_LightmapParameters: {fileID: 15203, guid: 0000000000000000f000000000000000, type: 0}
+--- !u!218 &218391812258844198
+Terrain:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1876745875045910}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_TerrainData: {fileID: 15600000, guid: a464fd7b3c314824092533928738f503, type: 2}
+  m_TreeDistance: 2000
+  m_TreeBillboardDistance: 50
+  m_TreeCrossFadeLength: 5
+  m_TreeMaximumFullLODCount: 50
+  m_DetailObjectDistance: 80
+  m_DetailObjectDensity: 1
+  m_HeightmapPixelError: 5
+  m_SplatMapDistance: 1000
+  m_HeightmapMaximumLOD: 0
+  m_CastShadows: 1
+  m_DrawHeightmap: 1
+  m_DrawTreesAndFoliage: 1
+  m_ReflectionProbeUsage: 1
+  m_MaterialType: 3
+  m_LegacySpecular:
+    serializedVersion: 2
+    rgba: 4286545791
+  m_LegacyShininess: 0.078125
+  m_MaterialTemplate: {fileID: 0}
+  m_BakeLightProbesForTrees: 1
+  m_ScaleInLightmap: 0.0512
+  m_LightmapParameters: {fileID: 15203, guid: 0000000000000000f000000000000000, type: 0}
+--- !u!218 &218442960837003646
+Terrain:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1694116256425782}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_TerrainData: {fileID: 15600000, guid: a5b929ddb018ca6489e5de1149124edf, type: 2}
+  m_TreeDistance: 2000
+  m_TreeBillboardDistance: 50
+  m_TreeCrossFadeLength: 5
+  m_TreeMaximumFullLODCount: 50
+  m_DetailObjectDistance: 80
+  m_DetailObjectDensity: 1
+  m_HeightmapPixelError: 5
+  m_SplatMapDistance: 1000
+  m_HeightmapMaximumLOD: 0
+  m_CastShadows: 1
+  m_DrawHeightmap: 1
+  m_DrawTreesAndFoliage: 1
+  m_ReflectionProbeUsage: 1
+  m_MaterialType: 3
+  m_LegacySpecular:
+    serializedVersion: 2
+    rgba: 4286545791
+  m_LegacyShininess: 0.078125
+  m_MaterialTemplate: {fileID: 0}
+  m_BakeLightProbesForTrees: 1
+  m_ScaleInLightmap: 0.0512
+  m_LightmapParameters: {fileID: 15203, guid: 0000000000000000f000000000000000, type: 0}
+--- !u!218 &218472207619450814
+Terrain:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1292670933733282}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_TerrainData: {fileID: 15600000, guid: b213df65baa712245b9d932da68fb970, type: 2}
+  m_TreeDistance: 2000
+  m_TreeBillboardDistance: 50
+  m_TreeCrossFadeLength: 5
+  m_TreeMaximumFullLODCount: 50
+  m_DetailObjectDistance: 80
+  m_DetailObjectDensity: 1
+  m_HeightmapPixelError: 5
+  m_SplatMapDistance: 1000
+  m_HeightmapMaximumLOD: 0
+  m_CastShadows: 1
+  m_DrawHeightmap: 1
+  m_DrawTreesAndFoliage: 1
+  m_ReflectionProbeUsage: 1
+  m_MaterialType: 3
+  m_LegacySpecular:
+    serializedVersion: 2
+    rgba: 4286545791
+  m_LegacyShininess: 0.078125
+  m_MaterialTemplate: {fileID: 0}
+  m_BakeLightProbesForTrees: 1
+  m_ScaleInLightmap: 0.0512
+  m_LightmapParameters: {fileID: 15203, guid: 0000000000000000f000000000000000, type: 0}
+--- !u!218 &218520163205810796
+Terrain:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1338990464092986}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_TerrainData: {fileID: 15600000, guid: 340db7fbab053134899d5e97c57f9089, type: 2}
+  m_TreeDistance: 2000
+  m_TreeBillboardDistance: 50
+  m_TreeCrossFadeLength: 5
+  m_TreeMaximumFullLODCount: 50
+  m_DetailObjectDistance: 80
+  m_DetailObjectDensity: 1
+  m_HeightmapPixelError: 5
+  m_SplatMapDistance: 1000
+  m_HeightmapMaximumLOD: 0
+  m_CastShadows: 1
+  m_DrawHeightmap: 1
+  m_DrawTreesAndFoliage: 1
+  m_ReflectionProbeUsage: 1
+  m_MaterialType: 3
+  m_LegacySpecular:
+    serializedVersion: 2
+    rgba: 4286545791
+  m_LegacyShininess: 0.078125
+  m_MaterialTemplate: {fileID: 0}
+  m_BakeLightProbesForTrees: 1
+  m_ScaleInLightmap: 0.0512
+  m_LightmapParameters: {fileID: 15203, guid: 0000000000000000f000000000000000, type: 0}
+--- !u!218 &218765090503086980
+Terrain:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1594668384335240}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_TerrainData: {fileID: 15600000, guid: e0e539e445d480c4e8e11409b1aed42c, type: 2}
+  m_TreeDistance: 2000
+  m_TreeBillboardDistance: 50
+  m_TreeCrossFadeLength: 5
+  m_TreeMaximumFullLODCount: 50
+  m_DetailObjectDistance: 80
+  m_DetailObjectDensity: 1
+  m_HeightmapPixelError: 5
+  m_SplatMapDistance: 1000
+  m_HeightmapMaximumLOD: 0
+  m_CastShadows: 1
+  m_DrawHeightmap: 1
+  m_DrawTreesAndFoliage: 1
+  m_ReflectionProbeUsage: 1
+  m_MaterialType: 3
+  m_LegacySpecular:
+    serializedVersion: 2
+    rgba: 4286545791
+  m_LegacyShininess: 0.078125
+  m_MaterialTemplate: {fileID: 0}
+  m_BakeLightProbesForTrees: 1
+  m_ScaleInLightmap: 0.0512
+  m_LightmapParameters: {fileID: 15203, guid: 0000000000000000f000000000000000, type: 0}
+--- !u!218 &218874037022628756
+Terrain:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1102510695793318}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_TerrainData: {fileID: 15600000, guid: 4c4609d7f281bee45bb5f63678fe7aee, type: 2}
+  m_TreeDistance: 2000
+  m_TreeBillboardDistance: 50
+  m_TreeCrossFadeLength: 5
+  m_TreeMaximumFullLODCount: 50
+  m_DetailObjectDistance: 80
+  m_DetailObjectDensity: 1
+  m_HeightmapPixelError: 5
+  m_SplatMapDistance: 1000
+  m_HeightmapMaximumLOD: 0
+  m_CastShadows: 1
+  m_DrawHeightmap: 1
+  m_DrawTreesAndFoliage: 1
+  m_ReflectionProbeUsage: 1
+  m_MaterialType: 3
+  m_LegacySpecular:
+    serializedVersion: 2
+    rgba: 4286545791
+  m_LegacyShininess: 0.078125
+  m_MaterialTemplate: {fileID: 0}
+  m_BakeLightProbesForTrees: 1
+  m_ScaleInLightmap: 0.0512
+  m_LightmapParameters: {fileID: 15203, guid: 0000000000000000f000000000000000, type: 0}
+--- !u!218 &218918160341437268
+Terrain:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1192501253533828}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_TerrainData: {fileID: 15600000, guid: bc743c433f923244fbb27a1f856963d6, type: 2}
+  m_TreeDistance: 2000
+  m_TreeBillboardDistance: 50
+  m_TreeCrossFadeLength: 5
+  m_TreeMaximumFullLODCount: 6479
+  m_DetailObjectDistance: 80
+  m_DetailObjectDensity: 1
+  m_HeightmapPixelError: 5
+  m_SplatMapDistance: 1000
+  m_HeightmapMaximumLOD: 0
+  m_CastShadows: 1
+  m_DrawHeightmap: 1
+  m_DrawTreesAndFoliage: 1
+  m_ReflectionProbeUsage: 1
+  m_MaterialType: 3
+  m_LegacySpecular:
+    serializedVersion: 2
+    rgba: 4286545791
+  m_LegacyShininess: 0.078125
+  m_MaterialTemplate: {fileID: 0}
+  m_BakeLightProbesForTrees: 1
+  m_ScaleInLightmap: 0.0512
+  m_LightmapParameters: {fileID: 15203, guid: 0000000000000000f000000000000000, type: 0}
+--- !u!218 &218962890061688830
+Terrain:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1295748635067054}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_TerrainData: {fileID: 15600000, guid: 125418d413b3b204bbe6fde32765bd91, type: 2}
+  m_TreeDistance: 2000
+  m_TreeBillboardDistance: 50
+  m_TreeCrossFadeLength: 5
+  m_TreeMaximumFullLODCount: 50
+  m_DetailObjectDistance: 80
+  m_DetailObjectDensity: 1
+  m_HeightmapPixelError: 5
+  m_SplatMapDistance: 1000
+  m_HeightmapMaximumLOD: 0
+  m_CastShadows: 1
+  m_DrawHeightmap: 1
+  m_DrawTreesAndFoliage: 1
+  m_ReflectionProbeUsage: 1
+  m_MaterialType: 3
+  m_LegacySpecular:
+    serializedVersion: 2
+    rgba: 4286545791
+  m_LegacyShininess: 0.078125
+  m_MaterialTemplate: {fileID: 0}
+  m_BakeLightProbesForTrees: 1
+  m_ScaleInLightmap: 0.0512
+  m_LightmapParameters: {fileID: 15203, guid: 0000000000000000f000000000000000, type: 0}
+--- !u!218 &218964463990468202
+Terrain:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1143484980322872}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_TerrainData: {fileID: 15600000, guid: 1551019ef9a09334b98084a871f320cb, type: 2}
+  m_TreeDistance: 2000
+  m_TreeBillboardDistance: 50
+  m_TreeCrossFadeLength: 5
+  m_TreeMaximumFullLODCount: 50
+  m_DetailObjectDistance: 80
+  m_DetailObjectDensity: 1
+  m_HeightmapPixelError: 5
+  m_SplatMapDistance: 1000
+  m_HeightmapMaximumLOD: 0
+  m_CastShadows: 1
+  m_DrawHeightmap: 1
+  m_DrawTreesAndFoliage: 1
+  m_ReflectionProbeUsage: 1
+  m_MaterialType: 3
+  m_LegacySpecular:
+    serializedVersion: 2
+    rgba: 4286545791
+  m_LegacyShininess: 0.078125
+  m_MaterialTemplate: {fileID: 0}
+  m_BakeLightProbesForTrees: 1
+  m_ScaleInLightmap: 0.0512
+  m_LightmapParameters: {fileID: 15203, guid: 0000000000000000f000000000000000, type: 0}
